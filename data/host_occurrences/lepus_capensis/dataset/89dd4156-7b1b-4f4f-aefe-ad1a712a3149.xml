@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="89dd4156-7b1b-4f4f-aefe-ad1a712a3149"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/t5iqmq</alternateIdentifier>
+        <alternateIdentifier>http://ipt.mincyt.gob.ar/resource?r=mastozoologica</alternateIdentifier>
+    <title>Colección Mastozoológica del IADIZA - CCT CONICET Mendoza: IADIZA-CMI</title>
+    <creator>
+    <individualName>
+<givenName>Benjamín</givenName>          <surName>Bender</surName>
+    </individualName>
+<organizationName>IADIZA-CCT CONICET Mendoza</organizationName><positionName>Técnico Adjunto</positionName>    <address>
+<deliveryPoint>Av. Ruíz Leal s/n Parque General San Martín</deliveryPoint><city>Mendoza</city><administrativeArea>Mendoza</administrativeArea><postalCode>5500</postalCode><country>ARGENTINA</country>    </address>
+<phone>+542615244127</phone><electronicMailAddress>jbbender@mendoza-conicet.gob.ar</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ruben</givenName>          <surName>Soria</surName>
+    </individualName>
+<organizationName>IANIGLA - CCT CONICET Mendoza</organizationName><positionName>Profesional Principal</positionName>    <address>
+<deliveryPoint>Av. Ruíz Leal s/n Parque General San Martín</deliveryPoint><city>Mendoza</city><administrativeArea>Mendoza</administrativeArea><postalCode>5500</postalCode><country>ARGENTINA</country>    </address>
+<phone>+542615244206</phone><electronicMailAddress>rsoria@mendoza-conicet.gob.ar</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Sergio Alberto</givenName>          <surName>Roig Juñent</surName>
+    </individualName>
+<organizationName>IADIZA-CCT CONICET Mendoza</organizationName><positionName>Coordinador General Colecciones Biológicas IADIZA</positionName>    <address>
+<deliveryPoint>Av. Ruíz Leal s/n Parque General San Martín</deliveryPoint><city>Mendoza</city><administrativeArea>Mendoza</administrativeArea><postalCode>5500</postalCode><country>ARGENTINA</country>    </address>
+<phone>+542615244132</phone><electronicMailAddress>saroig@mendoza-conicet.gob.ar</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2017-10-12
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>7.225 registros que corresponden a la Colección Mastozoológica del IADIZA CCT CONICET Mendoza (IADIZA-CMI). La Colección incluye datos de Mamíferos. El Curador de esta colección es Ricardo Ojeda, Dr. Biología.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Animalia</keyword>
+              <keyword>IADIZA</keyword>
+              <keyword>Mammalia</keyword>
+              <keyword>Chordata</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La información proviene principalmente de localidades de Argentina.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-71.6</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-56.4</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-42.8</northBoundingCoordinate>
+                      <southBoundingCoordinate>-23.9</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1900
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Los datos pertenecen a ejemplares actuales del reino Animalia; phyllum Cordata; Clase Mammalia.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Benjamín</givenName>          <surName>Bender</surName>
+    </individualName>
+<organizationName>IADIZA-CCT CONICET Mendoza</organizationName><positionName>Técnico Adjunto</positionName>    <address>
+<deliveryPoint>Av. Ruíz Leal s/n Parque General San Martín</deliveryPoint><city>Mendoza</city><administrativeArea>Mendoza</administrativeArea><postalCode>5500</postalCode><country>ARGENTINA</country>    </address>
+<phone>+542615244127</phone><electronicMailAddress>jbbender@mendoza-conicet.gob.ar</electronicMailAddress><onlineUrl>http://www.mendoza-conicet.gob.ar/portal/iadiza</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Ricardo</givenName>          <surName>Ojeda</surName>
+    </individualName>
+<organizationName>IADIZA-CCT CONICET Mendoza</organizationName><positionName>Curador Colección</positionName>    <address>
+<deliveryPoint>Av. Ruíz Leal s/n Parque General San Martín</deliveryPoint><city>Mendoza</city><administrativeArea>Mendoza</administrativeArea><postalCode>5500</postalCode><country>ARGENTINA</country>    </address>
+<phone>+542615244142</phone><electronicMailAddress>rojeda@mendoza-conicet.gob.ar</electronicMailAddress><onlineUrl>http://www.mendoza-conicet.gob.ar/portal/iadiza</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:38Z</dateStamp>
+      <citation identifier="IADIZA-CMI">Bender B, Soria R, Roig Juñent S A (2017). Colección Mastozoológica del IADIZA - CCT CONICET Mendoza: IADIZA-CMI. Ministerio de Ciencia, Tecnología e Innovación Productiva. Occurrence dataset https://doi.org/10.15468/t5iqmq accessed via GBIF.org on 2020-06-15.</citation>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier>IADIZA-CMI</collectionIdentifier>
+                <collectionName>Colección Mastozoológica del IADIZA - CCT CONICET Mendoza</collectionName>
+              </collection>
+              <formationPeriod>1974</formationPeriod>
+              <livingTimePeriod>1974-2017</livingTimePeriod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

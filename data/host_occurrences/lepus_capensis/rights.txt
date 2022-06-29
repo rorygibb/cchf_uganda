@@ -1,0 +1,189 @@
+
+Dataset: ISU Mammals
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: UWBM Mammalogy Collection (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Mammals Specimens
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CNMA/Colección Nacional de mamíferos
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Great Eastern Ranges - Slopes to Summit
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Marsabit Ecosystem Inventory Surveys 2014
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Geographically tagged INSDC sequences
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MSB Mammal Collection (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NatureShare
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mt. Kenya Inventory Surveys 2009
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mammal osteology MZS
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UAM Mammal Collection (Arctos)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Museums Victoria provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: HSU Wildlife Mammals
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Lund Museum of Zoology (MZLU)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: CHAS Mammalogy Collection (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Tasmanian Museum and Art Gallery provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: HSU Vertebrate Museum Mammals Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Vertebrats d'Andorra
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: MfN - Fossil vertebrates IV
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: EDIT - ATBI in Spreewald (Germany)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mammifères (sauf Chiroptères) du Muséum d'Histoire Naturelle de la ville de Bourges (BOUM)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Collections and observation data National Museum of Natural History Luxembourg
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Occurrence records of mammal species in Tana River Basin, Kenya
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Palaeobiology - Vertebrate Fossils Collection - Mammalia - Royal Ontario Museum
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: List of animalia, fungi and plant species recorded through naturalist observations and research activities in Benin. Data mobilized in the framework of a JRS Biodiversity Foundation project of Benin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Cowan Tetrapod Collection - Mammals
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Rapid Assessment Program (RAP) Biodiversity Survey Database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of California Museum of Paleontology
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Census of the animals of Benin
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SysTax -  Zoological Collections
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NYSM Mammals
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: LSUMZ Mammals Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Colección Mastozoológica del IADIZA - CCT CONICET Mendoza: IADIZA-CMI
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: ZUEC-MAM - Coleção de Mamíferos do Museu de Zoologia da UNICAMP
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Vertebrate collections of the Department of Animal Biology and Conservation Sciences, University of Ghana
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mammals housed at MHNG, Geneva
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: TTU Mammals Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MVZ Mammal Collection (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Museu de Ciències Naturals de Barcelona: MCNB-Tissue
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Making the zoology collection at the Natural History Museum of Zimbabwe accessible through GBIF by end of 2017 (BID-AF2015-0117-SMA)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Occurrence records of small and medium sized mammal species in Tana River Basin, Kenya
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Museum collection digitized at storage unit level
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NHMO Mammal collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Michigan Museum of Zoology, Division of Mammals
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Mammalia
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CUMV Mammal Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Queen Victoria Museum Art Gallery provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Australian National Wildlife Collection provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: KUBI Mammalogy Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" (MACN). Mammalogy National Collection (MACNMa)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Northern Territory Museum and Art Gallery provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MSU Mammalogy, Ornithology and Vertebrate Paleontology Collections
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Mammalogy Collection - Royal Ontario Museum
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Mammalia Collection of Institute of Systematics and Evolution of Animals
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Museum of Comparative Zoology, Harvard University
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: National System of Protected Areas in Poland - Animals
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: RBINS DaRWIN
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Queensland Museum provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Vertebrate Zoology Division - Mammalogy, Yale Peabody Museum
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Vertebrates of the Gothenburg Natural History Museum (GNM)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: BioGIS - Mammals - SPNI
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: International Barcode of Life project (iBOL)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Canberra Nature Map
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Australian Museum provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: IICT Colecção Zoológica
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Questagame weekly feed
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Brisbane City Council
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: naturgucker
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: ALA species sightings and OzAtlas
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museu de Ciències Naturals de Barcelona: MCNB-Cord
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: South Australian Museum Australia provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Collection Mammalia SMF
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Paleobiology Database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CAS Mammalogy (MAM)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: LACM Vertebrate Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: ACT Wildlife Atlas
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Large mammals in Israel from camera traps
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: BioGIS - Mammals - HUJ collections
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Arthur Chapman Observations
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Faunal Inventory of Morysin Nature Reserve
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Natural History Museum (London) Collection Specimens
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: AMNH Mammal Collections
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Tasmanian Natural Values Atlas
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ditsong National Museum of Natural History Collection: 1805-2008
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NMNH Extant Specimen Records
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: BioGIS - Mammals - INPA database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Field Museum of Natural History (Zoology) Mammal Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: WildNet - Queensland Wildlife Data
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Israel Nature and Parks Authority
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SA Fauna (BDBSA)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: OEH Atlas of NSW Wildlife
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: DOF - Observations from the Danish Ornithological Society
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode

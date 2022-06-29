@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8810b12b-7a24-403e-8b44-bf3848badb35"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/3bsmhl</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr2008</alternateIdentifier>
+        <alternateIdentifier>92a0c2fa-f3a1-3576-8041-e2285dbe5f41</alternateIdentifier>
+        <alternateIdentifier>http://collections.ala.org.au/public/show/dr2008</alternateIdentifier>
+        <alternateIdentifier>8810b12b-7a24-403e-8b44-bf3848badb35</alternateIdentifier>
+        <alternateIdentifier>83c30c28-2b2f-3fd8-9c44-dcdcad02f7ec</alternateIdentifier>
+        <alternateIdentifier>f04623bc-67fb-378c-946d-98e2f62e8984</alternateIdentifier>
+    <title>ACT Wildlife Atlas</title>
+    <creator>
+<organizationName>ACT Wildlife Atlas</organizationName>    <address>
+<city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<phone>(02) 6205 0066</phone><electronicMailAddress>spatialdata@act.gov.au</electronicMailAddress><onlineUrl>https://www.data.act.gov.au/Environment/ACT-Wildlife-Atlas-Records/e9ux-7djy</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>ACT Wildlife Atlas</organizationName>    <address>
+<city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<phone>(02) 6205 0066</phone><electronicMailAddress>spatialdata@act.gov.au</electronicMailAddress><onlineUrl>https://www.data.act.gov.au/Environment/ACT-Wildlife-Atlas-Records/e9ux-7djy</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-10-11
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This spatial dataset maps the location of wildlife records held within the ACT Wildlife Atlas up until December 2014. Records include mammals, fish, amphibians, invertebrates, reptiles and birds.</para>
+    </abstract>
+      <additionalInfo>
+          <para>Some sensitive records have been withheld.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr2008</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Murray</givenName>          <surName>Evans</surName>
+    </individualName>
+<positionName>Conservation Planning and Research</positionName><electronicMailAddress>Murray.Evans@act.gov.au</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:42Z</dateStamp>
+      <citation>Atlas of Living Australia (2019). ACT Wildlife Atlas. Occurrence dataset https://doi.org/10.15468/3bsmhl accessed via GBIF.org on 2020-06-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

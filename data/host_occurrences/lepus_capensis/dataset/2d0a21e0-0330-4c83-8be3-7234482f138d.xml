@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="2d0a21e0-0330-4c83-8be3-7234482f138d"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/xtsgbk</alternateIdentifier>
+        <alternateIdentifier>2d0a21e0-0330-4c83-8be3-7234482f138d</alternateIdentifier>
+        <alternateIdentifier>http://ipt.museums.or.ke/ipt/resource?r=mam_midtana</alternateIdentifier>
+    <title>Occurrence records of small and medium sized mammal species in Tana River Basin, Kenya</title>
+    <creator>
+    <individualName>
+<givenName>Simon</givenName>          <surName>Musila</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Head, Mammalogy Section</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>40658 - 00100</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>smusila@museums.or.ke</electronicMailAddress><onlineUrl>http://www.museums.or.ke</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Joseph</givenName>          <surName>Rumoky</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>40658 - 00100</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>josephrumoky@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Leah</givenName>          <surName>Muthama</surName>
+    </individualName>
+<electronicMailAddress>lwangithi@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>George</givenName>          <surName>Legrange</surName>
+    </individualName>
+<electronicMailAddress>georgelegrange95@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Aziza</givenName>          <surName>Zuhura</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Lab Technician - Mammalogy Section</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>40658 - 00100</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>azizazuhura@gmail.com</electronicMailAddress><onlineUrl>http://www.museums.or.ke</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Kevin</givenName>          <surName>Odhiambo</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Project Assistant</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>40658 - 00100</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>kevinabrahamsodhiambo@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Peris</givenName>          <surName>Kamau</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Senior Research Scientist</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>40658 - 00100</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>periskamau2@yahoo.com</electronicMailAddress><onlineUrl>http://www.museums.or.ke</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Siro</givenName>          <surName>Masinde</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Principal Research Scientist</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>40658 - 00100</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>siromasinde@hotmail.com</electronicMailAddress><onlineUrl>http://www.museums.or.ke</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Simon</givenName>          <surName>Musila</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Head, Mammalogy Section</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>40658 - 00100</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>smusila@museums.or.ke</electronicMailAddress><onlineUrl>http://www.museums.or.ke</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Esther</givenName>          <surName>Mwangi</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Research Scientist</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>40658 - 00100</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>ewmwangi@museums.or.ke</electronicMailAddress><onlineUrl>http://www.museums.or.ke</onlineUrl>    <role>PROCESSOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Lawrence</givenName>          <surName>Monda</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>ICT Manager</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>40658 - 00100</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>lmonda@museums.or.ke</electronicMailAddress><onlineUrl>http://www.museums.or.ke</onlineUrl>    <role>PUBLISHER</role>
+    </associatedParty>
+      <pubDate>
+      2020-03-14
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The dataset represents 501 mammal records. This include 213 occurrence records of mammal species recorded in a field expedition undertaken in mid Tana River Basin (TRB) ecosystem (Bangal, Garissa, Bura and Hola), in between 1st to 7th November 2019.  A total of 38 different small and medium sized mammal species of 11 orders were recorded from above expedition. Order Cetartiodactyla (Even-toed Ungulates), Carnivora (Carnivorans) and Primates (Primates) were the most common. Of the 213 mammal observations counted in the entire study areas, the sightings of Kirk’s Dik-dik (Madoqua kirkii) were the most abundant followed by Yellow Baboon (Papio cynocephalus). Three groups of Reticulated Giraffe (Giraffa camelopardalis reticulata) cumulatively of 35 animals, were observed in between Garissa to Bulanandir-Kora Kora. The rangeland in the study areas (Bangal, Garissa, Bura and Hola) was devoid of large and medium sized mammals, probably because of illegal bush-meat hunting, highly degraded habitats by livestock overgrazing and continuous invasion by the exotic Prosopsis juliflora bushes. An additional, 288 records of stuffed skins/skulls were retrieved and digitized from specimens collected and preserved at the Mammalogy Section lab, National Museums of Kenya (NMK). These specimens were mainly of small mammals (rodents, shrews and bats) collected in different localities within the entire Tana River Basin (TRB) ecosystem in between 1903-2015. The most dominant were individuals of the Order Rodentia (210), followed by Soricomorpha (white-toothed Shrews (22) and Order Chiroptera (bats (21). This information underscores the importance of the entire TRB ecosystem for the conservation of mammal biodiversity in Kenya.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>specimen data</keyword>
+              <keyword>human observation</keyword>
+              <keyword>occurrence</keyword>
+              <keyword>Mammals</keyword>
+              <keyword>Kenya</keyword>
+              <keyword>sight records</keyword>
+              <keyword>Tana River Basin</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Tana River Basin, south eastern Kenya</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>38.429</westBoundingCoordinate>
+                      <eastBoundingCoordinate>40.25</eastBoundingCoordinate>
+                      <northBoundingCoordinate>0.015</northBoundingCoordinate>
+                      <southBoundingCoordinate>-2.011</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1903-06-23
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-11-07
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Mammal species: Phylum - Chordata, Class – Mammalia; represented by 13 Orders, 40 families and 76 genera.
+
+Identification - Species and subspecies.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Carnivora</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cetartiodacytla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Chiroptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Erinaceomorpha</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Hyracoidea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Lagomorpha</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Macroscelidea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Perissodactyla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Primates</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Proboscidea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Rodentia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Soricomorpha</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Tubulidentata</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Simon</givenName>          <surName>Musila</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Head, Mammalogy Section</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>40658 - 00100</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>smusila@museums.or.ke</electronicMailAddress><onlineUrl>http://www.museums.or.ke</onlineUrl>      </contact>
+
+      <project id="60704 JRS-NMK">
+          <title>Developing a Freshwater Biodiversity Information System for the Tana River Basin, Kenya, for Improved Ecosystem Management and Development Planning</title>
+          <personnel>
+    <individualName>
+<givenName>Siro</givenName>          <surName>Masinde</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Peris</givenName>          <surName>Kamau</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>JRS Biodiversity Foundation - https://jrsbiodiversity.org/</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Tana River Basin is located in south eastern Kenya approximately between latitudes 0°0’53” and 2°0’41’’ South, and longitudes 38°25’43” and 40°15’ East, covering an area of about 95,000 km2 (Baker et al 2015). It is bordered by the Ewaso Ng’iro North Catchment to the north, the Rift Valley to the west, Athi Basin to the south and Somalia and the Indian Ocean to the east. The Tana River has its headwaters in the forests of Mount Kenya and the Nyandarua Ranges including Aberdares and rapidly descends down the mountain slopes where there is intensive agriculture, then through the arid and semi-arid areas comprising rangelands and finally terminates in a large delta at the Indian Ocean. The basin is generally divided into three ecosystems that are recognised based on their elevation, climate and vegetation cover (Van Beukering and De Moel 2015). The upper catchment above 1000 m a.s.l. consists of forested regions with high relief and higher rainfall. The middle catchment between 300-1000 m is flatter, drier and semi-arid to arid. The lower catchment below 300 m a.s.l. is semi-arid to moist at the coast with dry coastal forests and mangroves swamps and forms a delta with a large floodplain before discharging into the Indian Ocean.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The occurrence records were compiled from a short field visits to the mid TRB (Bangal, Garissa, Bura and Hola) in between 1st to 7th November 2019. The middle section (Hola, Bura and Garissa) of TRB ecosystem where the fieldwork was undertaken, is characterised by a dryland/rangeland vegetation dominated by Acacia-Commiphora bushlands. Transects were identified in various places around Hola, Bura, Garissa and Bangal, and searched for individuals of mammals as well as their signs (predominantly tracks, but also faeces, carcasses or body parts, digging or burrows 1) Melo et al. 2012; Roberts 2011). Local people encountered at the transect sites or our community guides, were also interviewed about the presence or absence of large and medium sized mammals, by being shown photos of mammals in Kingdon’s (2015) African mammal guide and asked to confirm or deny the presence of these species in their area (Geleta and Bekele, 2016; Cáceres-Martnez et al. 2016; Legese et al. 2019). In addition, specimen records are from vouchers collected using different methods appropriate for each taxon, especially dried stuffed skins deposited in the Mammalogy Section Lab-National Museums of Kenya.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:39Z</dateStamp>
+      <citation>Musila S, Rumoky J, Muthama L, Legrange G, Zuhura A, Odhiambo K, Kamau P, Masinde S (2020). Occurrence records of small and medium sized mammal species in Tana River Basin, Kenya. Version 1.3. National Museums of Kenya. Occurrence dataset https://doi.org/10.15468/xtsgbk accessed via GBIF.org on 2020-06-15.</citation>
+              <bibliography>
+      <citation identifier="DOI: 10.12933/therya-16-397">Cáceres-Martnez C, Rincón A, González-Maya F. 2016. Terrestrial medium and large-sized mammal’s diversity and activity patterns from Tamá National Natural Park and buffer zone, Colombia. Therya 7:285−298.</citation>
+      <citation>Geleta M, Bekele A. 2016. Survey of medium and large-sized mammals in Wacha Protected Forest, Western Ethiopia. J Agri Sci. 6:71−79.</citation>
+      <citation>Kingdon, J. 2015. Kingdon’s field guide to African mammals, 2nd edition. Bloomsburg publishing. London-UK.</citation>
+      <citation>Legese K, Bekele A, Kiros S. 2019. A Survey of large and medium-sized mammals in Wabe forest fragments, Gurage zone, Ethiopia. Int J Avian &amp; Wildlife Biol. 4(2):32‒38. DOI: 10.15406/ijawb.2019.04.00149</citation>
+      <citation>Melo GL, Sponchiado J, Cáceres NC. 2012. Use of camera-traps in natural trails and shelters for the mammalian survey in the Atlantic Forest. Série Zool 102: 88–94.</citation>
+      <citation>Roberts NJ. 2011. Investigation into survey techniques of large mammals: surveyor competence and camera-trapping vs. transect sampling. Biosci. Horizons 4: 40–49.</citation>
+      <citation>Van Beukering, P, De Moel, H. (eds) (2015). The Economics of Ecosystem Services of the Tana River Basin. Available at https://www.ivm.vu.nl/en/Images/R15-03_Tana_River_Basin_TEEB_report_tcm234-757604.pdf</citation>
+              </bibliography>
+              <resourceLogoUrl>http://ipt.museums.or.ke/ipt/logo.do?r=mam_midtana</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,43 @@
+
+Dataset: Occurrence records of mammal species in Tana River Basin, Kenya
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Liste d'espèces animales recensées au cours des activités de l'Organisation pour le Développement Durable et la Biodiversité (ODDB ONG) au Bénin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mammifères des mangroves et des zones humides du sud Togo
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mammals housed at MHNG, Geneva
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: naturgucker
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural History Museum (London) Collection Specimens
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: International Barcode of Life project (iBOL)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museum of Comparative Zoology, Harvard University
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Census of animal of Benin: Database 1
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Mammalia
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Museum collection digitized at storage unit level
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of Michigan Museum of Zoology, Division of Mammals
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Making the zoology collection at the Natural History Museum of Zimbabwe accessible through GBIF by end of 2017 (BID-AF2015-0117-SMA)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: AMNH Mammal Collections
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: LACM Vertebrate Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: List of animalia, fungi and plant species recorded through naturalist observations and research activities in Benin. Data mobilized in the framework of a JRS Biodiversity Foundation project of Benin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: RBINS DaRWIN
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: IICT Colecção Zoológica
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Levantamento de Mamíferos do Parque Nacional da Quiçama - INBAC/RWCP - 2017
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NMNH Extant Specimen Records
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="cdae52c7-a6f2-460e-b0e9-33c795a34224"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/7cozwv</alternateIdentifier>
+        <alternateIdentifier>cdae52c7-a6f2-460e-b0e9-33c795a34224</alternateIdentifier>
+        <alternateIdentifier>http://cloud.gbif.org/eubon/resource?r=camera</alternateIdentifier>
+    <title>Large mammals in Israel from camera traps</title>
+    <creator>
+    <individualName>
+<givenName>Michael</givenName>          <surName>Dorman</surName>
+    </individualName>
+<organizationName>HaMaarag</organizationName><positionName>Quantitative Ecologist</positionName>    <address>
+<city>Jerusalem</city><postalCode>91391</postalCode><country>ISRAEL</country>    </address>
+<phone>+972-72-2222912</phone><electronicMailAddress>michael.dorman@hamaarag.org.il</electronicMailAddress><onlineUrl>http://www.hamaarag.org.il</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Michael</givenName>          <surName>Dorman</surName>
+    </individualName>
+<organizationName>HaMaarag</organizationName><positionName>Quantitative Ecologist</positionName>    <address>
+<city>Jerusalem</city><postalCode>91391</postalCode><country>ISRAEL</country>    </address>
+<phone>+972-72-2222912</phone><electronicMailAddress>michael.dorman@hamaarag.org.il</electronicMailAddress><onlineUrl>http://www.hamaarag.org.il</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Kyle</givenName>          <surName>Braak</surName>
+    </individualName>
+<organizationName>GBIF</organizationName>    <address>
+<country>DENMARK</country>    </address>
+<electronicMailAddress>kbraak@gbif.org</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-3696-3496</userId>
+    <role>PROCESSOR</role>
+    </associatedParty>
+      <pubDate>
+      2016-12-23
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Observations of large mammals composed from camera traps. The monitoring array takes place in 11 monitoring units, while some of the larger units are further divided into subunits (different geographical regions) or habitats (different ecosystems). In some of the units the effect of proximity to man-made elements was also evaluated; in such cases there are also distinct sample sites near and far from the studied effect (e.g. settlements). Each unit x subunit x habitat x proximity combination usually contains 5 monitoring sites. In each such site, we positioned a transect of 900 m of 9 camera traps (with 100 m gaps) for about 10 days. All mammal photos were identified and grouped into observation events (represented by rows in the data file); an observation event is a set adjacent photos of the same species.
+Occupancy and activity levels estimates derived from HAMAARAG&amp;#39;s large mammals monitoring program data play an important role in acting as indicators for trends in biodiversity, habitat change and climate change.
+New collaborations are extremely valuable to make the most of the data. Researchers are welcome to contact the dataset creator to collaborate on comparative analyses and meta-analysis.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Samplingevent</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Camera trap</keyword>
+              <keyword>large mammals</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Israel</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>34.19</westBoundingCoordinate>
+                      <eastBoundingCoordinate>35.89</eastBoundingCoordinate>
+                      <northBoundingCoordinate>33.41</northBoundingCoordinate>
+                      <southBoundingCoordinate>29.47</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2012-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014-12-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Large mammals</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                          <commonName>mammals</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>The main objective of the scheme is to provide a systematic and recurrent assessment on the state of large mammals populations in several of the main habitat types in Israel, for both conservation and research purposes.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Michael</givenName>          <surName>Dorman</surName>
+    </individualName>
+<organizationName>HaMaarag</organizationName><positionName>Quantitative Ecologist</positionName>    <address>
+<city>Jerusalem</city><postalCode>91391</postalCode><country>ISRAEL</country>    </address>
+<phone>+972-72-2222912</phone><electronicMailAddress>michael.dorman@hamaarag.org.il</electronicMailAddress><onlineUrl>http://www.hamaarag.org.il</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>In each such site, we positioned a transect of 900 m of 9 camera traps (with 100 m gaps) for about 10 days.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>All mammal photos were identified and grouped into observation events (represented by rows in the data file); an observation event is a set adjacent photos of the same species.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>To the data file, added the spatial location (taken from the camera position, and averaged per site in this particular version), the time of the event and an individual count.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The monitoring array takes place in 11 monitoring units, while some of the larger units are further divided into subunits (different geographical regions) or habitats (different ecosystems). In some of the units the effect of proximity to man-made elements was also evaluated; in such cases there are also distinct sample sites near and far from the studied effect (e.g. settlements). Each unit x subunit x habitat x proximity combination usually contains 5 monitoring sites.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>In each such site, we positioned a transect of 900 m of 9 camera traps (with 100 m gaps) for about 10 days. All mammal photos were identified and grouped into observation events (represented by rows in the attached file); an observation event is a set of adjacent photos of the same species.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Each identification (scientific name) is matched against the GBIF Backbone Taxonomy as a quality control to make sure that each identification is correct.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:42Z</dateStamp>
+      <citation>Dorman M (2016). Large mammals in Israel from camera traps. Version 1.5. Hamaarag. Sampling event dataset https://doi.org/10.15468/7cozwv accessed via GBIF.org on 2020-06-15.</citation>
+              <resourceLogoUrl>https://cloud.gbif.org/eubon/logo.do?r=camera</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

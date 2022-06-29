@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8cc8f167-d9eb-4b50-905a-34895bb13325"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/yqhyqe</alternateIdentifier>
+        <alternateIdentifier>8cc8f167-d9eb-4b50-905a-34895bb13325</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=zuec-mam</alternateIdentifier>
+    <title>ZUEC-MAM - Coleção de Mamíferos do Museu de Zoologia da UNICAMP</title>
+    <creator>
+    <individualName>
+<givenName>Ivan</givenName>          <surName>Sazima</surName>
+    </individualName>
+<organizationName>Universidade Estadual de Campinas (UNICAMP)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Museu de Zoologia, Instituto de Biologia; Universidade Estadual de Campinas; Rua Albert Einstein, s/n. CxP 6109</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13083-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3521-6385</phone><electronicMailAddress>isazima@unicamp.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=ZUEC-MAM</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ivan</givenName>          <surName>Sazima</surName>
+    </individualName>
+<organizationName>Universidade Estadual de Campinas (UNICAMP)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Museu de Zoologia, Instituto de Biologia; Universidade Estadual de Campinas; Rua Albert Einstein, s/n. CxP 6109</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13083-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3521-6385</phone><electronicMailAddress>isazima@unicamp.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=ZUEC-MAM</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2020-06-12
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>A Coleção de Mamíferos do Museu de Zoologia &amp;#34;Prof. Adão José Cardoso&amp;#34; da Universidade Estadual de Campinas (Unicamp) é composta por cerca de 2.700 exemplares conservados em via seca e úmida. Os exemplares são provenientes de diversas regiões do Brasil, principalmente do Sudeste (~60%); destes, ~80% são provenientes do Estado de São Paulo. A coleção vem sendo constituída principalmente pelo trabalho de pesquisadores da Unicamp. O processo de catalogação e informatização da coleção está em andamento, com uso do gerenciador de banco de dados MS-Access. Os espécimes e os dados da coleção estão disponíveis a pesquisadores credenciados, bem como a consulta por estudantes de graduação e pós-graduação, devidamente autorizados e acompanhados pelo curador ou técnico responsáveis.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=ZUEC-MAM</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Ivan</givenName>          <surName>Sazima</surName>
+    </individualName>
+<organizationName>Universidade Estadual de Campinas (UNICAMP)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Museu de Zoologia, Instituto de Biologia; Universidade Estadual de Campinas; Rua Albert Einstein, s/n. CxP 6109</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13083-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3521-6385</phone><electronicMailAddress>isazima@unicamp.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=ZUEC-MAM</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:39Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=ZUEC-MAM">Sazima I (2020). ZUEC-MAM - Coleção de Mamíferos do Museu de Zoologia da UNICAMP. Version 1.48. Universidade Estadual de Campinas - Instituto de Biologia. Occurrence dataset https://doi.org/10.15468/yqhyqe accessed via GBIF.org on 2020-06-15.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=zuec-mam</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

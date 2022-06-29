@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="58d0f326-2e85-4d0a-a744-571461220f00"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/bxpyo3</alternateIdentifier>
+        <alternateIdentifier>http://bnhmipt.berkeley.edu/resource?r=ucmp</alternateIdentifier>
+        <alternateIdentifier>http://bnhmipt.berkeley.edu/ipt/resource?r=ucmp</alternateIdentifier>
+        <alternateIdentifier>http://bnhmipt.berkeley.edu/ipt/resource.do?r=ucmp</alternateIdentifier>
+        <alternateIdentifier>58d0f326-2e85-4d0a-a744-571461220f00</alternateIdentifier>
+        <alternateIdentifier>14944</alternateIdentifier>
+    <title>University of California Museum of Paleontology</title>
+    <creator>
+    <individualName>
+<givenName>Joyce</givenName>          <surName>Gross</surName>
+    </individualName>
+<organizationName>UC Berkeley Natural History Museums</organizationName><positionName>Programmer</positionName>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Joyce</givenName>          <surName>Gross</surName>
+    </individualName>
+<organizationName>UC Berkeley Natural History Museums</organizationName><positionName>Programmer</positionName><electronicMailAddress>jdeck@berkeley.edu</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2020-06-11
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The mission of the University of California Museum of Paleontology is to investigate and promote the understanding of the history of life and the diversity of the Earth&amp;#39;s biota through research and education.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>This resource provides access to data in the University of California Museum of Paleontology collections. We update taxonomy and check specimen identifications and associated information, but outdated names, mistaken identifications, and erroneous localities inevitably occur. We urge investigators to verify all data by direct examination of the specimens, and we appreciate notification of discrepancies (ucmp_data@uclink.berkeley.edu). Investigators are strongly encouraged to personally verify data before using it as a basis for publication. For additional information, see &lt;a href=http://vertnet.org/resources/norms.html&gt;VertNet Norms for Data Use and Publication&lt;/a&gt;.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The University of California collections covers all the kingdoms of life and is organized into four main subdivisions, Protists and Prokaryotes (microfossils), paleobotany (plants), vertebrate paleontology (vertebrate animals), and invertebrate paleontology (animals lacking a backbone).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                          <commonName>animals</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>plants</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Fungi</taxonRankValue>
+                          <commonName>fungi</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Eubacteria</taxonRankValue>
+                          <commonName>prokaryotes</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Archaebacteria</taxonRankValue>
+                          <commonName>prokaryotes</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Protista</taxonRankValue>
+                          <commonName>eukaryotes</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>weekly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Patricia</givenName>          <surName>Holroyd</surName>
+    </individualName>
+<organizationName>University of California Museum of Paleontology</organizationName><positionName>Museum Scientist</positionName>    <address>
+<deliveryPoint>1101 Valley Life Sciences Building</deliveryPoint><city>Berkeley</city><administrativeArea>California</administrativeArea><postalCode>94720-4780</postalCode><country>UNITED_STATES</country>    </address>
+<phone>510-642-3733</phone><electronicMailAddress>pholroyd@berkeley.edu</electronicMailAddress><onlineUrl>http://www.ucmp.berkeley.edu/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Diane</givenName>          <surName>Erwin</surName>
+    </individualName>
+<organizationName>University of California Museum of Paleontology</organizationName><positionName>Senior Museum Scientist for Paleobotany</positionName>    <address>
+<deliveryPoint>1101 Valley Life Sciences Building</deliveryPoint><city>Berkeley</city><administrativeArea>California</administrativeArea><postalCode>94720-4780</postalCode><country>UNITED_STATES</country>    </address>
+<phone>510-642-3921</phone><electronicMailAddress>dmerwin@berkeley.edu</electronicMailAddress><onlineUrl>http://www.ucmp.berkeley.edu/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Erica</givenName>          <surName>Clites</surName>
+    </individualName>
+<organizationName>University of California Museum of Paleontology</organizationName><positionName>Museum Scientist for Invertebrate Paleontology</positionName>    <address>
+<deliveryPoint>1101 Valley Life Sciences Building</deliveryPoint><city>Berkeley</city><administrativeArea>California</administrativeArea><postalCode>94720-4780</postalCode><country>UNITED_STATES</country>    </address>
+<electronicMailAddress>eclites@berkeley.edu</electronicMailAddress><onlineUrl>http://www.ucmp.berkeley.edu/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:38Z</dateStamp>
+      <citation>Gross J (2020). University of California Museum of Paleontology. Version 125.128. Berkeley Natural History Museums. Occurrence dataset https://doi.org/10.15468/bxpyo3 accessed via GBIF.org on 2020-06-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

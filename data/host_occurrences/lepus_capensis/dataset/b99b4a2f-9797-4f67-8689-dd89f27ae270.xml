@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="b99b4a2f-9797-4f67-8689-dd89f27ae270"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/0msz3d</alternateIdentifier>
+        <alternateIdentifier>b99b4a2f-9797-4f67-8689-dd89f27ae270</alternateIdentifier>
+        <alternateIdentifier>http://ipt.museums.or.ke/ipt/resource?r=mammals_trb</alternateIdentifier>
+    <title>Occurrence records of mammal species in Tana River Basin, Kenya</title>
+    <creator>
+    <individualName>
+<givenName>Simon</givenName>          <surName>Musila</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Head, Mammalogy Section</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>P. O. Box 40658 - 00100, Nairobi</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>smusila@museums.or.ke</electronicMailAddress><onlineUrl>http://www.museums.or.ke</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Robert</givenName>          <surName>Syingi</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Research Technician</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>P. O. Box 40658 - 00100, Nairobi</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>robertsyingi@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Daniel</givenName>          <surName>Mutavi</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Research Intern</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>P. O. Box 40658 - 00100</postalCode><country>KENYA</country>    </address>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Kevin</givenName>          <surName>Odhiambo</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Project Assistant -</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>P. O. Box 40658 - 00100, Nairobi</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>kevinabrahamsodhiambo@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Siro</givenName>          <surName>Masinde</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Principal Research Scientist</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>P. O. Box 40658 - 00100, Nairobi</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>siromasinde@hotmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Simon</givenName>          <surName>Musila</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Head, Mammalogy Section</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>P. O. Box 40658 - 00100, Nairobi</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>smusila@museums.or.ke</electronicMailAddress><onlineUrl>http://www.museums.or.ke</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Esther</givenName>          <surName>Mwangi</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Research Scientist</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>P. O. Box 40658 - 00100</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>ewmwangi@museums.or.ke</electronicMailAddress><onlineUrl>http://www.museums.or.ke</onlineUrl>    <role>PROCESSOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Lawrence</givenName>          <surName>Monda</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>ICT Manager</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>P. O. Box 40658 - 00100</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>lmonda@museums.or.ke</electronicMailAddress><onlineUrl>http://www.museums.or.ke</onlineUrl>    <role>PUBLISHER</role>
+    </associatedParty>
+      <pubDate>
+      2019-09-04
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The dataset represents occurrence records for mammal species in the Tana River Basin (TRB) ecosystem as well as a few outliers from the Aberdare National Park. The data were mainly sourced from published literature and the accessions register of mammal collections maintained by the Mammalogy Section, National Museums of Kenya (NMK). A few additional records were gleaned from unpublished grey literature as well as sightings and reports by ecotourism websites and lodges operating in TRB. Existing records were supplemented by fieldwork in selected areas to help in ground-truthing and filling data gaps. A total of 935 occurrence records represented by 16 orders, 46 families, 124 genera and 183 mammal species are presented here. Sites frequently visited in the past including Mt. Kenya and Meru National Parks had the largest number of mammal observations, while less visited sites such as Mumoni Hill Forest had very few records. The TRB is important for the protection of nine mammals endemic to Kenya including Cercocebus galeritus (Tana River Mangabey), Tachyoryctes rex (King Root-rat), Tachyoryctes spalacinus (Embi African Root-rat), Grammomys gigas (Giant Thicket Rat), Hylomyscus endorobae (Endorobo Wood Mouse), Otomys orestes (Afroalpine Vlei Rat), Crocidura fumosa (Smoky White-toothed Shrew), Surdisorex norae (Aberdare Mole-shrew) and Surdisorex polulus (Mount Kenya Mole-shrew). The ecosystem is also important for the conservation of three endemic mammal sub-species: Colobus guerza kikuyuensis (Mount Kenya Guereza), Cercopithecus mitis albotorquatus (Pousargues’s Monkey) and Perodicticus potto stockleyi (Mount Kenya Potto). Other species of conservation concern found in TRB are two Critically Endangered (CR) species namely, Beatragus hunteri (Hirola) and Diceros bicornis (Black Rhinoceros) as well seven endangered (EN) mammal species (Procolobus rufomitratus (Eastern Red Colobus), Cercocebus galeritus (Tana River Mangabey), Lycaon pictus (African Wild Dog), Equus grevyi (Grévy’s Zebra), Redunca fulvorufula (Mountain Reedbuck), Oryx beisa (Beisa Oryx) and Grammomys gigas (Giant Thicket Rat). This information underscores the importance of the entire TRB ecosystem for the conservation of mammal biodiversity.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>specimen data</keyword>
+              <keyword>human observation</keyword>
+              <keyword>Mammals</keyword>
+              <keyword>Kenya</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>sight records</keyword>
+              <keyword>Tana River Basin</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Tana River Basin Ecosystem in southeastern Kenya from the upper catchment in Mt. Kenya to the floodplains of Tana River delta at the Indian Ocean.
+
+Latitude: 0.01472222 - -2.011389, Longitude: 38.42861 - 40.25</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1983
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Mammal species: Phylum - Chordata, Class – Mammalia; represented by 16 Orders, 46 families and 124 genera.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Simon</givenName>          <surName>Musila</surName>
+    </individualName>
+<organizationName>National Museums of Kenya</organizationName><positionName>Head, Mammalogy Section</positionName>    <address>
+<deliveryPoint>Museum Hill Road</deliveryPoint><city>Nairobi</city><administrativeArea>Nairobi</administrativeArea><postalCode>P. O. Box 40658 - 00100, Nairobi</postalCode><country>KENYA</country>    </address>
+<electronicMailAddress>smusila@museums.or.ke</electronicMailAddress><onlineUrl>http://www.museums.or.ke</onlineUrl>      </contact>
+
+      <project id="60704 JRS-NMK">
+          <title>Developing a Freshwater Biodiversity Information System for the Tana River Basin, Kenya, for Improved Ecosystem Management and Development Planning</title>
+          <personnel>
+    <individualName>
+<givenName>Siro</givenName>          <surName>Masinde</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>JRS Biodiversity Foundation - https://jrsbiodiversity.org/</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Tana River Basin is located in south eastern Kenya approximately between latitudes 0°0’53” and 2°0’41’’ South, and longitudes 38°25’43” and 40°15’ East, covering an area of about 95,000 km2 (Baker et al 2015). It is bordered by the Ewaso Ng’iro North Catchment to the north, the Rift Valley to the west, Athi Basin to the south and Somalia and the Indian Ocean to the east. The Tana River has its headwaters in the forests of Mount Kenya and the Nyandarua Ranges including Aberdares and rapidly descends down the mountain slopes where there is intensive agriculture, then through the arid and semi-arid areas comprising rangelands and finally terminates in a large delta at the Indian Ocean. The basin is generally divided into three ecosystems that are recognised based on their elevation, climate and vegetation cover (Van Beukering and De Moel 2015). The upper catchment above 1000 m a.s.l. consists of forested regions with high relief and higher rainfall. The middle catchment between 300-1000 m is flatter, drier and semi-arid to arid. The lower catchment below 300 m a.s.l. is semi-arid to moist at the coast with dry coastal forests and mangroves swamps and forms a delta with a large floodplain before discharging into the Indian Ocean.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The occurrence records were compiled from the register of specimens collections at the Mammalogy Section, NMK, published literature and selected websites of tour operators and lodges operating in the TRB. Circumstantial evidence through interviews with the local people also yielded some occurrence records. The key literature sources were: Neal (1984), Alibhai and Keys (1985), Cunningham-van Somren (1986), Butynski and Mwangi (1994), Braude et al. (2000), Lambrechts et al. (2003), Webala et al. (2004), Njoroge et al. (2006), KFS (2010) Lala (2011), Dowsett-Lemaire and Dowsett. 2014; Demos et al. (2018), Hall (2018); Musila et al. (2018); Musila et al. (2019). Specimen records are from vouchers collected using different methods appropriate for each taxon, including dried skins and material preserved in 70% ethanol, and deposited in the Mammalogy Section Lab. In addition, a short field work was conducted in May 2019, to selected areas in upper TRB covering Ngaya, Chuka (Kiang’ondu), Kijegge and Kiang’ombe. Field observations of mammals were also carried out using different methods appropriate for each order, family or species. For taxonomy and common names of mammals we follow Kingdon (2015).</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:38Z</dateStamp>
+      <citation>Musila S, Syingi R, Mutavi D, Odhiambo K, Masinde S (2019). Occurrence records of mammal species in Tana River Basin, Kenya. Version 1.1. National Museums of Kenya. Occurrence dataset https://doi.org/10.15468/0msz3d accessed via GBIF.org on 2020-06-15.</citation>
+              <bibliography>
+      <citation identifier=" https://doi.org/10.1017/S0266467400000407">Alibhai S. K. and Key G. 1985. A preliminary investigation of small mammal biology in the Kora National Reserve, Kenya</citation>
+      <citation identifier="https://dx.doi.org/10.5337/2015.223">Baker, T.; Kiptala, J.; Olaka, L.; Oates, N.; Hussain, A.; McCartney, M. 2015. Baseline review and ecosystem services assessment of the Tana River Basin, Kenya. Colombo, Sri Lanka: International Water Management Institute (IWMI). 107p. (IWMI Working Paper 165).</citation>
+      <citation identifier="https://doi.org/10.1017/S0952836901000322">Braude, S., Ciszek, D., Berg, N.E. and Shefferly, N., 2001. The ontogeny and distribution of countershading in colonies of the naked mole-rat (Heterocephalus glaber). Journal of Zoology, 253(3), pp.351-357.</citation>
+      <citation identifier="http://coastalforests.tfcg.org/pubs/Tana_Colobus_Mangabey.pdf">Butynski, T.M. and Mwangi, G., 1994. Conservation status and distribution of the Tana River red colobus and crested mangabey. Unpublished report for Zoo Atlanta, National Museums of Kenya, Institute of Primate Research and East African Wildlife Society, 67.</citation>
+      <citation identifier="http://rhinoark.org/wp-content/uploads/2016/05/Aberdare_aerial_survey_ENGLISH.pdf">Christian, L., Woodley, B., Church, C., Gachanja, M. 2003. Aerial survey of the destruction of the Aberdare Range Forests. UNEP. Nairobi.</citation>
+      <citation>Cunningham-van Somren, G.R., 1986. The larger mammals of the Kora National Reserve, with notes on the Sciuridae and Bathyergidae’ in Coe, M. and Collins, N. M., (eds.) (1986) Kora: an ecological inventory of the Kora National Reserve, Kenya,. Royal Geographical Society, London, pp. 287-302</citation>
+      <citation identifier="https://doi.org/10.3389/fevo.2018.00086">Demos, T.C., Webala, P. W., Bartonjo, M., Patterson, B.D. 2018. Hidden diversity of African Yellow House Bats (Vespertilionidae, Scotophilus): Insights from multilocus phylogenetics and lineage delimitation. Frontiers in Ecology and Evolution. 6.</citation>
+      <citation identifier="https://www.ajol.info/index.php/scopus/article/view/107052">Dowsett-Lemaire, F., Dowsett, R.J. 2014. Checklist of the birds of Kipini Conservancy, Lamu and Tana River districts, coastal Kenya . Scopus 33: 1–44.</citation>
+      <citation>Hall, J. 2018. Mammal watching in Kenya. http://www.mammalwatching.com/places/kenya/-downloaded November 2018</citation>
+      <citation>KFS, Aberdare Forest Reserve Management Plan 2010 – 2019</citation>
+      <citation>Kingdon, J. 2015. Kingdon’s field guide to African mammals, 2nd edition. Bloomsburg publishing. London-UK.</citation>
+      <citation>Kipini Conservancy. 2018. http://www.kipiniconservancy.org/terrestrial/, Accessed 12th November 2018</citation>
+      <citation>KWS. 2018. http://www.kws.go.ke/content/aberdare-national-park.  Accessed 20th November 2018.</citation>
+      <citation identifier="https://pdfs.semanticscholar.org/72bb/167423e40f796590dbcd7988d6d47fc5f02d.pdf">Lala, F. 2011. Use of bone decay rate (Taphonomy) in determining wildlife numbers and distribution in Meru National Park, Kenya. MSc. thesis. University of Nairobi, Kenya.</citation>
+      <citation identifier="http://www.zoores.ac.cn/EN/10.24272/j.issn.2095-8137.2019.004">Musila, S., Chen, Z.Z., Li, Q., Yego, R., Zhang, B., Onditi, K., Muthoni, I., He, S.W., Omondi, S., Mathenge, J. and Kioko, E.N., 2019. Diversity and distribution patterns of non-volant small mammals along different elevation gradients on Mt. Kenya, Kenya. Zoological Research, 40(1), p.53.</citation>
+      <citation identifier="http://www.zoores.ac.cn/EN/10.24272/j.issn.2095-8137.2018.059">Musila, S., Monadjem, A., Webala, P.W., Patterson, B.D., Hutterer, R., De Jong, Y.A., Butynski, T.M., Mwangi, G., Chen, Z.Z. and Jiang, X.L., 2019. An annotated checklist of mammals of Kenya. Zoological Research,40(1), p.3.</citation>
+      <citation identifier=" https://doi.org/10.1111/j.1365-2028.1984.tb00695.x">Neal, B. R. 1984. Relationship between feeding habits, climate and reproduction of small mammals in Meru National Park, Kenya. African Journal of Ecology 22:195–205</citation>
+      <citation>Niklas Hanqvist. 2018. http://murera.se/wildlife/mammals/Downloaded 13th November 2018</citation>
+      <citation identifier="https://doi.org/10.2982/028.098.0108">Njoroge, P., Yego, R., Muchane, M., Githiru, M., Njeri, T. and Giani, A., 2006. A Survey of the Large and Medium Sized Mammals of Arawale National Reserve, Kenya</citation>
+      <citation>Rhino River Camp. 2019. Larger Mammals Of Meru National Park.http://rhinorivercamp.com/pdf/Meru_Mammals_list.pdf. Accessed 3rd April 2019</citation>
+      <citation identifier="https://doi.org/10.1644/10-MAMM-F-355.1">Sikes, R.S. and Gannon, W.L., 2011. Guidelines of the American Society of Mammalogists for the use of wild mammals in research. Journal of Mammalogy, 92(1), pp.235-253.</citation>
+      <citation>Southern Valley Safaris. 2018. http://www.southernvalleysafaris.com/tana-river-primate-reserve/ Accessed 12th November 2018</citation>
+      <citation>Tana River Primate Reserve Safari. 2018. Guide-https://informationcradle.com/kenya/tana-river-primate-reserve/ Accessed 12th November 2018</citation>
+      <citation>UNESCO World Heritage Centre. 2018. https://whc.unesco.org/en/tentativelists/5514/ downloaded 12th November 2018</citation>
+      <citation identifier="https://www.ivm.vu.nl/en/Images/R15-03_Tana_River_Basin_TEEB_report_tcm234-757604.pdf">Van Beukering, P, De Moel, H. (eds) (2015). The Economics of Ecosystem Services of the Tana River Basin.</citation>
+      <citation identifier=" https://doi.org/10.1111/j.1365-2028.2004.00505.x">Webala, P.W., Oguge, N.O. and Bekele, A., 2004. Bat species diversity and distribution in three vegetation communities of Meru National Park, Kenya. African Journal of Ecology, 42(3), pp.171-179</citation>
+              </bibliography>
+              <resourceLogoUrl>http://ipt.museums.or.ke/ipt/logo.do?r=mammals_trb</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

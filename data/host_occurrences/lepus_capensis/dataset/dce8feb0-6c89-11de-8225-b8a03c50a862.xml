@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="dce8feb0-6c89-11de-8225-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/e7susi</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr340</alternateIdentifier>
+        <alternateIdentifier>bed2ea03-4d06-31c1-a2ef-5fb7a8de04e7</alternateIdentifier>
+        <alternateIdentifier>http://collections.ala.org.au/public/show/dr340</alternateIdentifier>
+        <alternateIdentifier>dce8feb0-6c89-11de-8225-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>da1b4dd3-8fde-3b3b-98e8-6850d474a089</alternateIdentifier>
+        <alternateIdentifier>575103a1-ff40-3c12-9f8d-6d6b93ebcfa6</alternateIdentifier>
+        <alternateIdentifier>14113</alternateIdentifier>
+    <title>Australian Museum provider for OZCAM</title>
+    <creator>
+<organizationName>OZCAM (Online Zoological Collections of Australian Museums) Provider</organizationName><onlineUrl>http://www.ozcam.org.au/</onlineUrl>    </creator>
+    <creator>
+<organizationName>Australian Museum</organizationName>    <address>
+<deliveryPoint>1 William Street</deliveryPoint><city>Sydney</city><administrativeArea>New South Wales</administrativeArea><postalCode>2010</postalCode><country>AUSTRALIA</country>    </address>
+<phone>(612) 9320 6000</phone><onlineUrl>http://australianmuseum.net.au/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>OZCAM (Online Zoological Collections of Australian Museums) Provider</organizationName><onlineUrl>http://www.ozcam.org.au/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-03-18
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Australian Museum provider for OZCAM</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr340</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>OZCAM</givenName>          <surName>Webmaster</surName>
+    </individualName>
+<positionName>Webmaster</positionName><electronicMailAddress>OZCAM.CHAFC@gmail.com</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:41Z</dateStamp>
+      <citation>Australian Museum (2020). Australian Museum provider for OZCAM. Occurrence dataset https://doi.org/10.15468/e7susi accessed via GBIF.org on 2020-06-15.</citation>
+              <resourceLogoUrl>https://collections.ala.org.au/data/dataProvider/ozcam.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

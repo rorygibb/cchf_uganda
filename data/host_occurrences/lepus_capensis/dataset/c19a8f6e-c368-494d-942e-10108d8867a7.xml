@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c19a8f6e-c368-494d-942e-10108d8867a7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/uv6p4z</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr1947</alternateIdentifier>
+        <alternateIdentifier>195f2c87-de9e-3957-b197-53c1ab4c58cb</alternateIdentifier>
+        <alternateIdentifier>http://collections.ala.org.au/public/show/dr1947</alternateIdentifier>
+        <alternateIdentifier>c19a8f6e-c368-494d-942e-10108d8867a7</alternateIdentifier>
+        <alternateIdentifier>f7fd9848-e973-3106-bd52-f5da0b3d76c0</alternateIdentifier>
+        <alternateIdentifier>55bf4330-fcca-3185-9581-1b9bce761b66</alternateIdentifier>
+    <title>Canberra Nature Map</title>
+    <creator>
+<organizationName>NatureMapr</organizationName><electronicMailAddress>aaron@at3.am</electronicMailAddress><onlineUrl>http://naturemapr.org/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>NatureMapr</organizationName><electronicMailAddress>aaron@at3.am</electronicMailAddress><onlineUrl>http://naturemapr.org/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-06-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Canberra Nature Map is a repository for park care groups, volunteers and members of the public to report sightings of rare and endangered plant species and any of the many treasures in Canberra&amp;#39;s nature parks. Canberra Nature Map was founded by Aaron Clausen, a mountain biker who accidentally rode through a patch of critically endangered Canberra spider orchids and became entranced by their beauty and fragility.
+
+Objectives
+With your help, we aim to:
+
+Accurately map every rare plant in the ACT and maintain records for future generations.
+Improve public education and awareness of the plant diversity and significance of Canberra&amp;#39;s Nature Parks.
+Influence development decisions and protect Canberra&amp;#39;s treasures by providing critical species location data to Government.
+The &amp;#34;rare&amp;#34; plant list utilised by Canberra Nature Map is an informal list of those plant species that currently are only known from a few records within the ACT. Existing plant records for the ACT were gleaned from the Atlas of Living Australia, targeted surveys of Canberra Nature Park and plant lists derived from general vegetation surveys and monitoring across the ACT. It also includes all orchid species, that by their nature are restricted and/or sensitive. It is hoped that Canberra Nature Map will help clarify the status of these uncommon plants within the ACT. In the meantime Canberra Nature Map, by providing readily accessible and up to date locational information enables a precautionary approach to be taken towards the management and protection of the uncommon plant species found within our reserves.
+How it works
+The general public and nature lovers report their rare plant sightings and photographs.
+The Canberra Nature Map community and our nature experts moderate and comment on the sightings.
+An accurate species identification is discussed and confirmed.
+Meanwhile, the general public are reading and learning about Canberra&amp;#39;s treasures and the plants which occur in the places that they hold close to heart.
+High quality rare plant sighting information is sent to the ACT Government Conservation, Planning and Research unit and the CSIRO Atlas of Living Australia.
+This knowledge is fed into planning, development and conservation management decisions.</para>
+    </abstract>
+      <additionalInfo>
+          <para>The data supplied by Canberra Nature Map to the ALA is a subset of data containing non-sensitive sightings suitable for public access via the ALA. If the ALA provides a sensitive data service that provides suitable restrictions, CNM may choose to provide further data that will be processed by this service before being made available for public access.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr1947</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Aaron</givenName>          <surName>Clausen</surName>
+    </individualName>
+<positionName>editor</positionName><electronicMailAddress>aaron@at3.am</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:41Z</dateStamp>
+      <citation>Atlas of Living Australia (2020). Canberra Nature Map. Occurrence dataset https://doi.org/10.15468/uv6p4z accessed via GBIF.org on 2020-06-15.</citation>
+              <resourceLogoUrl>https://collections.ala.org.au/data/dataResource/CNM-Logo.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

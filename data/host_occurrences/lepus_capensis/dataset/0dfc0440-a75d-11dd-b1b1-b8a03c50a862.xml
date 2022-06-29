@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0dfc0440-a75d-11dd-b1b1-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/x3renj</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.pl:8080/resource?r=uw_ze_wilanow</alternateIdentifier>
+        <alternateIdentifier>0dfc0440-a75d-11dd-b1b1-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>7946</alternateIdentifier>
+    <title>Faunal Inventory of Morysin Nature Reserve</title>
+    <creator>
+    <individualName>
+<givenName>Tomasz</givenName>          <surName>Gortat</surName>
+    </individualName>
+<organizationName>University of Warsaw, Dept. of Ecology</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>tomgo@biol.uw.edu.pl</electronicMailAddress><onlineUrl>http://www.ksib.pl/index.php?id=0&amp;ln=en</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Tomasz</givenName>          <surName>Gortat</surName>
+    </individualName>
+<organizationName>University of Warsaw, Dept. of Ecology</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>tomgo@biol.uw.edu.pl</electronicMailAddress><onlineUrl>http://www.ksib.pl/index.php?id=0&amp;ln=en</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Tomasz</givenName>          <surName>Gortat</surName>
+    </individualName>
+<electronicMailAddress>tomgo@biol.uw.edu.pl</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2017-12-15
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The studies were carried out between January and November 2006 in the southern suburban part of Warsaw, Poland. The area consists of the forested Morysin Reserve, Wilanowski Park and adjoining open fields and meadows. Small mammals (rodents and shrews) were trapped using live-traps (CMR method) in May and November, five days in each month. The bats were caught  using chiropterology nets at the and of June, in July and in October. In case of other groups data were collected in all seasons (winter, spring, summer, autumn) by visual observations of animals, identification of their tracks and/or voices.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Tomasz</givenName>          <surName>Gortat</surName>
+    </individualName>
+<organizationName>University of Warsaw, Dept. of Ecology</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>tomgo@biol.uw.edu.pl</electronicMailAddress><onlineUrl>http://www.ksib.pl/index.php?id=0&amp;ln=en</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:43Z</dateStamp>
+      <citation>Gortat T (2017). Faunal Inventory of Morysin Nature Reserve. University of Warsaw, Dept. of Ecology. Occurrence dataset https://doi.org/10.15468/x3renj accessed via GBIF.org on 2020-06-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

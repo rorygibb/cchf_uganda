@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8a0e70b1-dd09-4c74-85f1-68554108ba7b"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/4yebfc</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr4621</alternateIdentifier>
+        <alternateIdentifier>d0b746c5-594a-32be-8001-f5e84b0cbc20</alternateIdentifier>
+        <alternateIdentifier>http://collections.ala.org.au/public/show/dr4621</alternateIdentifier>
+        <alternateIdentifier>8a0e70b1-dd09-4c74-85f1-68554108ba7b</alternateIdentifier>
+        <alternateIdentifier>98e00880-a93d-3504-9752-5b8af3bdada8</alternateIdentifier>
+        <alternateIdentifier>351bfbbf-7044-3da1-80c8-37a8339c7acf</alternateIdentifier>
+    <title>Great Eastern Ranges - Slopes to Summit</title>
+    <creator>
+<organizationName>FieldData / Biological Data Recording System</organizationName><onlineUrl>https://root.ala.org.au/bdrs-core/root/home.htm</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>FieldData / Biological Data Recording System</organizationName><onlineUrl>https://root.ala.org.au/bdrs-core/root/home.htm</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-09-26
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Slopes to Summit (S2S) Biodiversity Project is a pilot project of the Atlas of Living Australia (ALA). Established in 2012, the project aims to encourage citizen science in the local community, where people can find out more about local wildlife and get involved in sharing species records.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr4621</url>
+          </online>
+      </distribution>
+      <contact>
+<positionName>editor</positionName><electronicMailAddress>support_bdrs@ala.org.au</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:36Z</dateStamp>
+      <citation>Great Eastern Ranges Initialtive (2019). Great Eastern Ranges - Slopes to Summit. Occurrence dataset https://doi.org/10.15468/4yebfc accessed via GBIF.org on 2020-06-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

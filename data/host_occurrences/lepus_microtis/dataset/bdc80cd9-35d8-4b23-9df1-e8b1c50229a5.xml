@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="bdc80cd9-35d8-4b23-9df1-e8b1c50229a5"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/lyy6bk</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbifbenin.org/resource?r=oddb</alternateIdentifier>
+    <title>Liste d&apos;espèces animales recensées au cours des activités de l&apos;Organisation pour le Développement Durable et la Biodiversité (ODDB ONG) au Bénin</title>
+    <creator>
+    <individualName>
+<givenName>Mariano Gboja</givenName>          <surName>HOUNGBEDJI</surName>
+    </individualName>
+<organizationName>Organisation pour le Développement Durable et la Biodiversité (ODDB-ONG)</organizationName>    <address>
+<city>Cotonou</city><administrativeArea>Littoral</administrativeArea><postalCode>10 BP 266 Cotonou</postalCode><country>BENIN</country>    </address>
+<phone>(00229) 64181808</phone><electronicMailAddress>info@oddbong.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Sènami Chrystelle</givenName>          <surName>DAKPOGAN</surName>
+    </individualName>
+<organizationName>Organisation pour le Développement Durable et la Biodiversité (ODDB-ONG)</organizationName><positionName>Directrice Exécutive</positionName>    <address>
+<city>Cotonou</city><administrativeArea>Littoral</administrativeArea><postalCode>10 BP 266 Cotonou</postalCode><country>BENIN</country>    </address>
+<phone>(00229) 95057597</phone><electronicMailAddress>cdakpogan@oddbong.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2019-04-27
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Ce jeu de données est issu de l&amp;#39;inventaire des espèces animales de la forêt communautaire de Gnahouizounmè, de la forêt sacrée de Kikélé, du site Drabo-gbo ainsi que l&amp;#39;inventaire de quelques espèces animales des départements suivants: Atacora, Donga, Mono, Couffo, Zou, Collines, Ouémé, Plateau, Atlantique et Littoral.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>forêts communautaires</keyword>
+              <keyword>animal</keyword>
+              <keyword>Inventaire</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>forêt communautaire de Gnahouizounmè, forêt sacrée de Kikélé, site Drabo-gbo,  Départements : Atacora, Donga, Mono, Couffo, Zou, Collines, Ouémé, Plateau, Atlantique et Littoral.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>0.527</westBoundingCoordinate>
+                      <eastBoundingCoordinate>4.131</eastBoundingCoordinate>
+                      <northBoundingCoordinate>12.64</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.228</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2004-01-31
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-06-11
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Mariano Gboja</givenName>          <surName>HOUNGBEDJI</surName>
+    </individualName>
+<organizationName>Organisation pour le Développement Durable et la Biodiversité (ODDB-ONG)</organizationName>    <address>
+<city>Cotonou</city><administrativeArea>Littoral</administrativeArea><postalCode>10 BP 266 Cotonou</postalCode><country>BENIN</country>    </address>
+<phone>(00229) 64181808</phone><electronicMailAddress>info@oddbong.org</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Sènami Chrystelle</givenName>          <surName>DAKPOGAN</surName>
+    </individualName>
+<organizationName>Organisation pour le Développement Durable et la Biodiversité (ODDB-ONG)</organizationName><positionName>Directrice Exécutive</positionName>    <address>
+<city>Cotonou</city><administrativeArea>Littoral</administrativeArea><postalCode>10 BP 266 Cotonou</postalCode><country>BENIN</country>    </address>
+<phone>(00229) 95057597</phone><electronicMailAddress>cdakpogan@oddbong.org</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Alfred</givenName>          <surName>OGA</surName>
+    </individualName>
+<organizationName>Organisation pour le Développement Durable et la Biodiversité (ODDB-ONG)</organizationName>    <address>
+<city>Cotonou</city><administrativeArea>Littoral</administrativeArea><postalCode>10 BP 266 Cotonou</postalCode><country>BENIN</country>    </address>
+<phone>(00229) 66177604</phone><electronicMailAddress>info@oddbong.org</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Aurel</givenName>          <surName>GAGA</surName>
+    </individualName>
+<organizationName>Faculté des Sciences Agronomiques</organizationName><positionName>Etudiant</positionName>    <address>
+<city>Abomey-Calavi</city><administrativeArea>Atlantique</administrativeArea><country>BENIN</country>    </address>
+      </contact>
+
+      <project id="http://jrsbiodiversity.org/jrs-supports-capacity-development-uac-oxford-2018/ ; http://jrsbiodiversity.org/grants/uac-2018/ ">
+          <title>Regional graduate course for capacity development in biodiversity informatics in Africa</title>
+          <personnel>
+    <individualName>
+<givenName>Jean Cossi</givenName>          <surName>GANGLO</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>Through key objectives, this project is designed to overcome the challenge of lack of capacities in Africa: 
+
+Objective 1: Build in-depth capacities in biodiversity informatics to students in masters program:
+At least 20 Beninese students and 10 students of other nationalities will be yearly recruited and fully capacitated in the program (Months 4, 16, 28 and beyond the project) (Output 1). The courses will be recorded and shared worldwide (Outcome 4).
+
+Objective 2: Build capacities in biodiversity informatics to other GBIF Benin partners (students and professionals):
+Through workshops, at least, each year, 50 other GBIF Benin partners will be trained in relevant topics of biodiversity informatics (Months 6, 12, 18, 24, 30, 34 and beyond) (Output 5)
+
+Objective 3: Fill data gaps in priority thematic areas of Benin and other countries involved in the project:
+Trained students will achieve data gaps analysis in priority thematic areas (Months 12 – 36 and beyond) (Output 6) and contribute to fill data gaps (Months 12 – 36 and beyond) (Output 7). 
+
+Objective 4: Use data to develop appropriate products to inform decisions on biodiversity conservation:
+Trained students will use data to address needs of information (Months 12 – 36 and beyond) (Output 8) and largely disseminate the results via multimedia (Months 12 – 36 and beyond) (Output 9).
+
+Project Objective 5: Enhance staff development:
+We will provide internship opportunities to strengthen capacities of national trainers and most brilliant students to enable them to sustainably carry on the training of students in the program</para>
+          </abstract>
+          <funding>
+              <para>The funding of this project is generously provided by JRS Biodiversity Foundation (http://jrsbiodiversity.org/)</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Actually in Benin, we estimate that there are 400 – 600 working biodiversity information scientists in public and private agencies. With few exceptions, the situation is not much different in the rest of African countries. Those biodiversity information scientists usually base their decisions - of biodiversity conservation - on floristic and faunistic compositions of ecosystems and related communities as well as on ecology, ethology and habitat characteristics of different species. This approach becomes limiting to conserve efficiently and sustainably biodiversity in the actual threatening context of climate and global changes exacerbated by diverse pressures on biodiversity. To overcome that limitation, we rather need a critical mass of scientists with sound knowledge in biodiversity informatics to achieve relevant results on spatial distributions, ecological niches… of species and different biota to inform decisions on priority areas of biodiversity.
+ In order to develop a trained cohort to meet national needs, we believe that Benin needs to train at least an additional 20 master students. Additionally, training each year at least 10 other masters and advanced students from different African countries, will result in progressive but efficient creation of homes of biodiversity informatics to enhance biodiversity conservation and sustainable uses throughout Africa.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The work plan of the project is presented per objective:
+
+Objective 1: Build in-depth capacities in biodiversity informatics to students in masters program
+We will recruit students every year (Activity 1) at least 20 Beninese students and 10 students of other nationalities (Months 4, 16, 28 and beyond) (Output 1).Students will be fully trained in relevant topics of biodiversity informatics by national and international experts (Months 1-36 and beyond) (Activity 2) so that, after two years of training, at least 80% of students successfully graduate (Months 18, 30 and beyond) (Output 2). The courses will be recorded and shared (Months 1-36) (Activity 3) to enable worldwide use and reuse (Outcome 3).
+
+Objective 2: Build capacities in biodiversity informatics to other GBIF Benin partners (students and professionals)
+Here, we will enhance, through one Professional Skills Workshop per year, capacity buildings to other GBIF Benin partners (Months 6, 18, 30and beyond) (Activity 4) by training yearly, at least 50 of them in relevant topics of biodiversity informatics (Output 4). Therefore, data gap analysis, data collection, and data uses will be promoted (Outcome 4). 
+
+Objective 3: Whenever deemed relevant, identify and fill data gaps in priority thematic areas of Benin and other countries involved in the project
+Whenever relevant, trained students will achieve data gaps analysis (Months 12 – 36 and beyond) (Activity 5) in at least 3 priority thematic areas of their respective countries (Months 12 – 36 and beyond) (Output 5); they will then collect and publish data (Months 12 – 36 and beyond) (Activity 6) to fill the gaps identified (Months 12 – 36 and beyond) (Output 5). Therefore, data gap analysis, data collection, and data uses will be promoted (Outcome 4). 
+
+Objective 4: Use data to develop appropriate products to inform decisions on biodiversity conservation
+To attain that objective, trained students will use data (Months 12 – 36 and beyond) (Activity 7) to address needs of information (species, biota spatial distributions and niche models…) to support biodiversity conservation (Months 12 – 36 and beyond) (Output 7). We will then, through Communication and Outreach Workshops (1 per year), achieve communication and outreach (Months 12 – 36 and beyond) (Activity 8) to largely disseminate the products developed, in government agencies, NGOs, universities, private sectors… (Months 12 – 36 and beyond) (Output 8). Therefore, detailed and data products developed will be promoted in decision making (Outcome 5).
+
+Objective 5: Enhance staff development
+Here, we will provide internship opportunities to national trainers and most brilliant students to strengthen their capacities so that they can reliably carry on the training of students (Months 1 – 36 and beyond) (Activity 9) to sustain in the program (Outcome 7)</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:49Z</dateStamp>
+      <citation>HOUNGBEDJI M G, DAKPOGAN S C (2019). Liste d&apos;espèces animales recensées au cours des activités de l&apos;Organisation pour le Développement Durable et la Biodiversité (ODDB ONG) au Bénin. Organisation pour le Développement Durable et la Biodiversité. Occurrence dataset https://doi.org/10.15468/lyy6bk accessed via GBIF.org on 2020-06-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

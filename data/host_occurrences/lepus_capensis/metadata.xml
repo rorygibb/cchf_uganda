@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.axaxjk"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0001768-200613084148143</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.axaxjk</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2020-06-15
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;TaxonKey&quot; : [ &quot;is Lepus capensis Linnaeus, 1758&quot; ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from ISU Mammals
+1 records from UWBM Mammalogy Collection (Arctos)
+1 records from Mammals Specimens
+1 records from CNMA/Colección Nacional de mamíferos
+1 records from Great Eastern Ranges - Slopes to Summit
+1 records from Marsabit Ecosystem Inventory Surveys 2014
+1 records from Geographically tagged INSDC sequences
+1 records from MSB Mammal Collection (Arctos)
+1 records from NatureShare
+1 records from Mt. Kenya Inventory Surveys 2009
+1 records from Mammal osteology MZS
+1 records from UAM Mammal Collection (Arctos)
+1 records from Museums Victoria provider for OZCAM
+1 records from HSU Wildlife Mammals
+1 records from Lund Museum of Zoology (MZLU)
+1 records from CHAS Mammalogy Collection (Arctos)
+1 records from Tasmanian Museum and Art Gallery provider for OZCAM
+1 records from HSU Vertebrate Museum Mammals Collection
+1 records from Vertebrats d&apos;Andorra
+1 records from MfN - Fossil vertebrates IV
+1 records from EDIT - ATBI in Spreewald (Germany)
+2 records from Mammifères (sauf Chiroptères) du Muséum d&apos;Histoire Naturelle de la ville de Bourges (BOUM)
+2 records from Collections and observation data National Museum of Natural History Luxembourg
+2 records from Occurrence records of mammal species in Tana River Basin, Kenya
+2 records from Palaeobiology - Vertebrate Fossils Collection - Mammalia - Royal Ontario Museum
+2 records from List of animalia, fungi and plant species recorded through naturalist observations and research activities in Benin. Data mobilized in the framework of a JRS Biodiversity Foundation project of Benin
+2 records from Cowan Tetrapod Collection - Mammals
+2 records from Rapid Assessment Program (RAP) Biodiversity Survey Database
+2 records from University of California Museum of Paleontology
+2 records from Census of the animals of Benin
+2 records from SysTax -  Zoological Collections
+3 records from NYSM Mammals
+3 records from LSUMZ Mammals Collection
+3 records from Colección Mastozoológica del IADIZA - CCT CONICET Mendoza: IADIZA-CMI
+3 records from ZUEC-MAM - Coleção de Mamíferos do Museu de Zoologia da UNICAMP
+3 records from Vertebrate collections of the Department of Animal Biology and Conservation Sciences, University of Ghana
+3 records from Mammals housed at MHNG, Geneva
+4 records from TTU Mammals Collection
+4 records from MVZ Mammal Collection (Arctos)
+4 records from Museu de Ciències Naturals de Barcelona: MCNB-Tissue
+5 records from Making the zoology collection at the Natural History Museum of Zimbabwe accessible through GBIF by end of 2017 (BID-AF2015-0117-SMA)
+5 records from Occurrence records of small and medium sized mammal species in Tana River Basin, Kenya
+5 records from Naturalis Biodiversity Center (NL) - Museum collection digitized at storage unit level
+6 records from NHMO Mammal collection
+6 records from University of Michigan Museum of Zoology, Division of Mammals
+7 records from Naturalis Biodiversity Center (NL) - Mammalia
+7 records from CUMV Mammal Collection
+9 records from Queen Victoria Museum Art Gallery provider for OZCAM
+10 records from Australian National Wildlife Collection provider for OZCAM
+10 records from KUBI Mammalogy Collection
+10 records from Museo Argentino de Ciencias Naturales &quot;Bernardino Rivadavia&quot; (MACN). Mammalogy National Collection (MACNMa)
+10 records from Northern Territory Museum and Art Gallery provider for OZCAM
+12 records from MSU Mammalogy, Ornithology and Vertebrate Paleontology Collections
+14 records from Mammalogy Collection - Royal Ontario Museum
+14 records from Mammalia Collection of Institute of Systematics and Evolution of Animals
+14 records from Museum of Comparative Zoology, Harvard University
+15 records from National System of Protected Areas in Poland - Animals
+16 records from RBINS DaRWIN
+16 records from Queensland Museum provider for OZCAM
+18 records from Vertebrate Zoology Division - Mammalogy, Yale Peabody Museum
+18 records from Vertebrates of the Gothenburg Natural History Museum (GNM)
+19 records from BioGIS - Mammals - SPNI
+20 records from International Barcode of Life project (iBOL)
+23 records from Canberra Nature Map
+24 records from Australian Museum provider for OZCAM
+27 records from IICT Colecção Zoológica
+27 records from Questagame weekly feed
+30 records from Brisbane City Council
+31 records from naturgucker
+36 records from ALA species sightings and OzAtlas
+36 records from Museu de Ciències Naturals de Barcelona: MCNB-Cord
+38 records from South Australian Museum Australia provider for OZCAM
+39 records from Collection Mammalia SMF
+41 records from Paleobiology Database
+44 records from CAS Mammalogy (MAM)
+47 records from LACM Vertebrate Collection
+54 records from ACT Wildlife Atlas
+66 records from Large mammals in Israel from camera traps
+70 records from iNaturalist Research-grade Observations
+80 records from BioGIS - Mammals - HUJ collections
+118 records from Arthur Chapman Observations
+147 records from Faunal Inventory of Morysin Nature Reserve
+180 records from Natural History Museum (London) Collection Specimens
+181 records from AMNH Mammal Collections
+193 records from Tasmanian Natural Values Atlas
+204 records from Ditsong National Museum of Natural History Collection: 1805-2008
+289 records from NMNH Extant Specimen Records
+290 records from BioGIS - Mammals - INPA database
+308 records from Field Museum of Natural History (Zoology) Mammal Collection
+394 records from WildNet - Queensland Wildlife Data
+565 records from Israel Nature and Parks Authority
+649 records from SA Fauna (BDBSA)
+2575 records from OEH Atlas of NSW Wildlife
+34826 records from DOF - Observations from the Danish Ornithological Society
+</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:44Z</dateStamp>
+      <citation identifier="10.15468/dl.axaxjk">GBIF Occurrence Download 10.15468/dl.axaxjk</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://api.gbif.org/v1/occurrence/download/request/0001768-200613084148143.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

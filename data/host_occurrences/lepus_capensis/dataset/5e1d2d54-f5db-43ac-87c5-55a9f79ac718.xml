@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="5e1d2d54-f5db-43ac-87c5-55a9f79ac718"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/h7rqo9</alternateIdentifier>
+        <alternateIdentifier>http://ipt-benin.gbif.fr/resource?r=animalsbenin</alternateIdentifier>
+        <alternateIdentifier>http://lis-02.snv.jussieu.fr/ipt_benin/resource?r=animalsbenin</alternateIdentifier>
+        <alternateIdentifier>5e1d2d54-f5db-43ac-87c5-55a9f79ac718</alternateIdentifier>
+    <title>Census of the animals of Benin</title>
+    <creator>
+    <individualName>
+<givenName>Armand</givenName>          <surName>KINGBO</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences</organizationName><positionName>Scientist</positionName>    <address>
+<city>Abomey-Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<phone>96269768</phone><electronicMailAddress>armandkingbo@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Paterne Prince Babatundé</givenName>          <surName>KIKI</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences</organizationName><positionName>Scientist</positionName>    <address>
+<city>Abomey-Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<phone>97869463</phone><electronicMailAddress>Kiprinbat@yahoo.fr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+<organizationName>Laboratory of Forest Sciences</organizationName>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2016-06-24
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Data entered from the documents on the Biodiversity Atlas of West Africa. Benin. Tome 1. Volume 1</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Benin</keyword>
+              <keywordThesaurus>Savane buissonneuse, mangrove, champs, Mer, parc National Pendjari, Parc National W, Bénin</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Benin</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>1.45</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>11.5</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2014-11-24
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014-11-24
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2014-11-24
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014-04-01
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Jean Cossi</givenName>          <surName>GANGLO</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences</organizationName>    <address>
+<city>Abomey-Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<phone>66363770</phone><electronicMailAddress>ganglocj@gmail.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Armand</givenName>          <surName>KINGBO</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences</organizationName><positionName>Scientist</positionName>    <address>
+<city>Abomey-Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<phone>96269768</phone><electronicMailAddress>armandkingbo@gmail.com</electronicMailAddress>      </contact>
+
+      <project >
+          <title>the Biodiversity Atlas of West Africa. Benin Tome 1, Volume 1</title>
+          <personnel>
+    <individualName>
+<givenName>Armand</givenName>          <surName>KINGBO</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+            <designDescription>
+                <description>
+                    <para>Study of all animals species recorded in Benin to contribute to fill the country a National fauna Atlas</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:38Z</dateStamp>
+      <citation>KINGBO A, KIKI P P B (2016). Census of the animals of Benin. Version 1.2. GBIF Benin. Occurrence dataset https://doi.org/10.15468/h7rqo9 accessed via GBIF.org on 2020-06-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

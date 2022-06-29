@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="19cb2741-a430-4139-8680-e11eba996978"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/22kwre</alternateIdentifier>
+        <alternateIdentifier>http://ipt-benin.gbif.fr/resource?r=tessi</alternateIdentifier>
+    <title>List of animalia, fungi and plant species recorded through naturalist observations and research activities in Benin. Data mobilized in the framework of a JRS Biodiversity Foundation project of Benin</title>
+    <creator>
+    <individualName>
+<givenName>Donald R.</givenName>          <surName>Yêhouénou Tessi</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences. University of Abomey-Calavi</organizationName><positionName>Research assistant</positionName>    <address>
+<city>Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<phone>+22997696308</phone><electronicMailAddress>tdonald3@yahoo.fr</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Donald R.</givenName>          <surName>Yêhouénou Tessi</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences. University of Abomey-Calavi</organizationName><positionName>Research assistant</positionName>    <address>
+<city>Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<phone>+22997696308</phone><electronicMailAddress>tdonald3@yahoo.fr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Jean</givenName>          <surName>Ganglo</surName>
+    </individualName>
+<electronicMailAddress>ganglocj@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2017-03-02
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Through ecotourism, NGO and research activities, there are a lot of field visits and identification of many species (animal, fungi). This dataset is the compilation of records from ecotourism, naturalist observations and research activities done in Benin. The list of species includes animals, fungi and plants</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Species diversity</keyword>
+              <keyword>Benin</keyword>
+              <keyword>fungi</keyword>
+              <keyword>plants</keyword>
+              <keyword>animals</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Through ecotourism, NGO and research activities, there are a lot of field visits and identification of many species (animal, fungi). This dataset is the compilation of records from ecotourism, naturalist observations and research activities done in Benin. The list of species includes animals, fungi and plants</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>0.84</westBoundingCoordinate>
+                      <eastBoundingCoordinate>3.58</eastBoundingCoordinate>
+                      <northBoundingCoordinate>12.4</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.28</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1996-03-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-11-25
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Donald R.</givenName>          <surName>Yêhouénou Tessi</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences. University of Abomey-Calavi</organizationName><positionName>Research assistant</positionName>    <address>
+<city>Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<phone>+22997696308</phone><electronicMailAddress>tdonald3@yahoo.fr</electronicMailAddress>      </contact>
+
+      <project id="http://jrsbiodiversity.org/grants/faculte-des-sciences-agronomiques-uac/">
+          <title>Implementation of the National Biodiversity Information System (NBIS) of Benin</title>
+          <personnel>
+    <individualName>
+<givenName>Jean Cossi</givenName>          <surName>GANGLO</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>Based on a national survey on biodiversity data holders and users across Benin, project researchers discovered that large reserves of biodiversity data form Benin remain unpublished: the National Herbarium (University of Abomey-Calavi, UAC) and the General Direction of Forest and Natural Resource Management (Ministry of Environment) each holds at least 50,000 plant and animal records, and the biodiversity center of IITA – Benin holds more than 200,000 insect specimens. Moreover, owing to colonial-era biodiversity exploration and documentation, even more of the relevant data on Beninese biodiversity resides outside of the country, in largest part in museums and herbaria in France and elsewhere. These resources thus represent an opportunity to dramatically increase the availability of information for the country.  This JRS grant award to UAC follows on to a grant awarded in 2011 to the National Biodiversity Institute of Costa Rica (INBio), to provide technical assistance to UAC to establish the digitization equipment, protocols, and data publishing software.</para>
+          </abstract>
+          <funding>
+              <para>The funding of this project is generously provided by JRS Biodiversity Foundation (http://jrsbiodiversity.org/)</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The data digitized and published in the framework of this project are gathered throughout the whole country</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The design is detailed according tp the objectives of the project
+1.	Extend and consolidate partnerships with institutions working in the field of biodiversity in Benin. This objective will be achieved during the first 18 months of the project, including at least 70% of the major institutions, through sensitization on the importance of biodiversity data publication and training of targeted staff members. Where required, the project will provide financial assistance to support data mobilization. 
+
+2.	Mobilize more plant and animal data. This objective will be achieved during the first 18 months of the project by digitizing and publishing at least 50,000 geo-referenced animal and plant collections (Magnoliophyta, Pteridophyta, vertebrates, key insect groups) of partner institutions. Data mobilization will occur in the framework of GBIF procedures and standards. As a consequence, the NBIS portal will become the ‘go-to’ source of biodiversity information for the country.
+
+3.	Mobilize global data for Benin. This objective will be achieved during the first 21 months of the project, but largely within the framework of another project to be submitted. We are building a West African digitization consortium via a formal partnership with researchers and institutions in Ghana, Togo, Nigeria, and Cameroon. Within this consortium, we will develop broad cooperation and collaboration with European and North American museums and herbaria for effective capture, repatriation, cleaning, georeferencing, and sharing of at least 50% of data from ‘frozen’ European and American museum collections regarding Benin (and West Africa more generally).
+
+4.	Advance Beninese capacity in biodiversity analyses. This objective will be achieved throughout the project and beyond. My institution has signed an MOU with Kansas University (KU) to enable high-level scientific and technical assistance from the team of Dr Perterson to several universities in Benin. This assistance will help incorporate biodiversity informatics into Masters degree programs in Benin. Beninese students to be trained in the Ph.D. program at KU will be recruited at universities of Benin to carry on biodiversity informatics training and develop detailed case studies relevant to decision-making in biodiversity conservation in Benin.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:50Z</dateStamp>
+      <citation>Yêhouénou Tessi D R (2017). List of animalia, fungi and plant species recorded through naturalist observations and research activities in Benin. Data mobilized in the framework of a JRS Biodiversity Foundation project of Benin. Laboratory of Forest Sciences (University of Abomey-Calavi). Occurrence dataset https://doi.org/10.15468/22kwre accessed via GBIF.org on 2020-06-15.</citation>
+              <bibliography>
+      <citation>Biota of the WAP complex. http://www.inaturalist.org/projects/biota-of-the-wap-complex; OEBENIN. 2016. Lions of the W-Arly-Pendjari (WAP) complex. http://www.inaturalist.org/projects/lions-of-the-w-arly-pendjari-wap-complex						
+Alain PAULY, Yves BRAET, Severin TCHIBOZ0, Chris AIKPE, Jean-Luc BOEVE. 2009. Hymenoptera Apoidea et Braconidae de quelques forets sacrees du Sud-Benin. Bulletin SR.B.E.IK.B. VE., 145: 121-129						
+S. Djègo-Djossou, I. Koné, A. B. Fandohan, J. G. Djègo, M. C. Huynen and B. Sinsin. 2015. Habitat Use by White-Thighed Colobus in the Kikélé Sacred Forest: Activity Budget, Feeding Ecology and Selection of Sleeping Trees. Primate Conservation, (29):97-105.						
+Chabi RKB. 2011. Produits forestiers non ligneux de la forêt communautaire d’Igbodja : Biodiversite et formes d’Usages. Mémoire de Maitrise. Université d’Abomey-Calavi; Assogbadjo AE, Fandohan B, R. Glèlè Kakaï &amp; T. Kyndt &amp; O. J. Hardy &amp; G. Gheysen &amp; B. Sinsin. 2012. Genetic Evidence of the Contribution of Ethnic Migrations to the Propagation and Persistence of the Rare and Declining Scrambling Shrub Caesalpinia bonduc L. Human Ecology. 40:117–128.; Natta AK, Yédomonhan H, Zoumarou-wallis, Houndehin J, Ewédjè EBK,  Glèlè-kakaï RL. 2011. Typologie et structure des populations naturelles de pentadesma butyracea dans la zone soudano-guinéenne du bénin. Annales des Sciences Agronomiques 15 (2): 137-152, 2011; AGO Expédit Evariste. 2000. Sacralisation et niveau de maturation des forêts denses semi-décidues du plateau adja au sud-ouest du Benin. Mémoire d’Ingénieur agronome, Université d’Abomey-Calavi. 172 pages</citation>
+              </bibliography>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

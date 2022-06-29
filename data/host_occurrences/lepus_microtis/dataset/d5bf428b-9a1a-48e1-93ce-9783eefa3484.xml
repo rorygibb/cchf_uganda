@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="d5bf428b-9a1a-48e1-93ce-9783eefa3484"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/rcksfh</alternateIdentifier>
+        <alternateIdentifier>http://ipt-togo.gbif.fr/resource?r=mamm</alternateIdentifier>
+        <alternateIdentifier>d5bf428b-9a1a-48e1-93ce-9783eefa3484</alternateIdentifier>
+    <title>Mammifères des mangroves et des zones humides du sud Togo</title>
+    <creator>
+    <individualName>
+<givenName>Raoufou Pierre</givenName>          <surName>Radji</surName>
+    </individualName>
+<organizationName>GBIF-TOGO</organizationName><positionName>Node Manager</positionName>    <address>
+<deliveryPoint>01BP:1515 Lome1</deliveryPoint><city>Lomé</city><administrativeArea>Maritim</administrativeArea><postalCode>01BP:1515 Lome1</postalCode><country>TOGO</country>    </address>
+<phone>+22890020411</phone><electronicMailAddress>pradji@hotmail.com</electronicMailAddress><onlineUrl>http://univ-lome.tg</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-6597-8438</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Koudjo</givenName>          <surName>AKPENE</surName>
+    </individualName>
+<organizationName>UNVERSITE DE LOME</organizationName><positionName>IT GBIF TOGO</positionName>    <address>
+<deliveryPoint>01bp:1515 lome1</deliveryPoint><city>Lome</city><administrativeArea>Maritim</administrativeArea><postalCode>01bp:1515</postalCode><country>TOGO</country>    </address>
+<phone>+22890038866</phone><electronicMailAddress>koudjoa@yahoo.fr</electronicMailAddress><onlineUrl>http://univ-lome.tg</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Koudjo</givenName>          <surName>AKPENE</surName>
+    </individualName>
+<electronicMailAddress>koudjoa@yahoo.fr</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2018-08-03
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Faune des mangroves et des zones humides du sud Togo	Les zones humides du sud Togo sont un ensemble constitué du cordon littoral et du système lagunaire. Il comporte une mangrove qui est une association végétale halophile qui se développe le long de la rivière Gbaga et ses affluents. L&amp;#39;on trouve en ses endroits une faune typique de mangrove. Les zones humides du sud Togo contiennent aussi des mares permanentes telles que: la mare d&amp;#39;Afito (108 ha), la mare de Lagoè (34 ha), la mare de Lotoè (19 ha) et la mare de Didin (15 ha).Méthodes utilisées	Plusieurs méthodes ont été utilisées: la méthode des transects, la méthode des quadrats, l&amp;#39;observation directe et indirecte, l&amp;#39;achat des animaux capturés par les paysans et les enquêtes auprès des pêcheurs.	La méthode des transects	Dans la localité visitée, un transect de 100 m de long et de 2 m de large a été délimité en direction de l&amp;#39;eau. Les relevés fauniques ont été effectués le long du transect.	La méthode des transects a été utilisée pour évaluer les populations de Periophtalmus papilio à Aného.	La méthode des quadrats	Des carrés consécutifs de 10 m2 ont été délimités sur ligne de 100 m (soit 5 carrés) en direction de l&amp;#39;eau. Dans les carrés délimités, les trous des crabes à l&amp;#39;exception des galeries mortes ont été dénombrés. Les galeries mortes sont obstruées par les toiles d&amp;#39;araignée.	Cette méthode a été utilisée pour estimer la répartition spatiale du crabe Cardisoma armatum à Zanvé (Préfecture des lacs) et du crabe Uca tangeri au Port autonome de Lomé et à Aného. 	Méthodes complémentaires	Il s&amp;#39;agit de l&amp;#39;observation directe in situ des animaux, des épaves, des empreintes d&amp;#39;une part, des enquêtes chez les pêcheurs et d&amp;#39;autres parts des achats d&amp;#39;animaux auprès des paysans et dans les marchés.	Les observations ont été faites du Port autonome de Lomé à Aného, Séko, Djéta, Zanvé, Agbanakin et autour des mares.Ces différentes méthodes précitées ont été utilisées dans le cadre de l&amp;#39;inventaire de la faune des zones humides du sud Togo en 1998 et dans le cadre du projet de l&amp;#39;agrandissement du port autonome de Lomé en 2009 par des chercheurs de L&amp;#39;Université de Lomé.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Mammifères des mangroves et des zones humides du sud Togo</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>0.923</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1.846</eastBoundingCoordinate>
+                      <northBoundingCoordinate>6.337</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.13</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Komina</givenName>          <surName>AMEVOIN</surName>
+    </individualName>
+<organizationName>Laboratoire d&apos;Entomologie Appliquée Département de Zoologie et de Biologie Animale Faculté des Sciences</organizationName><positionName>Professeur</positionName>    <address>
+<deliveryPoint>Université de Lomé 1BP 1515 Lomé1 LOME TOGO</deliveryPoint><city>Lomé</city><administrativeArea>Golfe</administrativeArea><postalCode>1515</postalCode><country>TOGO</country>    </address>
+<phone>+22891856508</phone><electronicMailAddress>kamevoin@yahoo.fr</electronicMailAddress>      </contact>
+
+      <project id="BID-AF2015-0004-NAC">
+          <title>Strengthening the biodiversity stakeholders network in Togo</title>
+          <personnel>
+    <individualName>
+<givenName>Komina</givenName>          <surName>AMEVOIN</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>Les zones humides du sud Togo sont un ensemble constitué du cordon littoral et du système lagunaire. Il comporte une mangrove qui est une association végétale halophile qui se développe le long de la rivière Gbaga et ses affluents. L&apos;on trouve en ses endroits une faune typique de mangrove. Les zones humides du sud Togo contiennent aussi des mares permanentes telles que: la mare d&apos;Afito (108 ha), la mare de Lagoè (34 ha), la mare de Lotoè (19 ha) et la mare de Didin (15 ha).</para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:49Z</dateStamp>
+      <citation>Radji R P, AKPENE K (2018). Mammifères des mangroves et des zones humides du sud Togo. Version 1.5. Université de Lomé. Occurrence dataset https://doi.org/10.15468/rcksfh accessed via GBIF.org on 2020-06-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="35720b3e-aded-4b83-b4f1-967f1d457d6a"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/kkgkne</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=cumv_mamm</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=cumv_mamm</alternateIdentifier>
+        <alternateIdentifier>35720b3e-aded-4b83-b4f1-967f1d457d6a</alternateIdentifier>
+        <alternateIdentifier>14897</alternateIdentifier>
+    <title>CUMV Mammal Collection</title>
+    <creator>
+    <individualName>
+<givenName>Casey</givenName>          <surName>Dillman</surName>
+    </individualName>
+<organizationName>Cornell University Museum of Vertebrates</organizationName><positionName>Curator of Fishes, Amphibians and Reptiles</positionName>    <address>
+<deliveryPoint>159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850-1923</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 607-254-2162</phone><electronicMailAddress>cbd63@cornell.edu</electronicMailAddress><onlineUrl>http://www.cumv.cornell.edu</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Charles</givenName>          <surName>Dardia</surName>
+    </individualName>
+<organizationName>Cornell University Museum of Vertebrates</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850-1923</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 607-254-2161</phone><electronicMailAddress>cmd7@cornell.edu</electronicMailAddress><onlineUrl>http://www.cumv.cornell.edu</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Vanya</givenName>          <surName>Rohwer</surName>
+    </individualName>
+<organizationName>Cornell University Museum of Vertebrates</organizationName><positionName>Curator of Birds &amp; Mammals</positionName>    <address>
+<deliveryPoint>159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850-1923</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 607-254-1148</phone><electronicMailAddress>vgr7@cornell.edu</electronicMailAddress><onlineUrl>http://www.cumv.cornell.edu</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName>    <address>
+<deliveryPoint>PO Box 180</deliveryPoint><city>Cotati</city><administrativeArea>California</administrativeArea><postalCode>94931</postalCode><country>UNITED_STATES</country>    </address>
+<electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>Information Architect</positionName><onlineUrl>http://www.vertnet.org</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+      <pubDate>
+      2018-07-19
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The CUMV Mammal Collection includes approximately 11,500 skins, 11,770 skulls, 3,240 skeletons, and 530 fluid-preserved specimens. The collection is one of the largest of New York mammals, and has a strong representation of eastern North America taxa, containing all species of land mammals in the region. With only a few exceptions, all the genera of land mammals in the United States and Canada are represented. The collections are largely the work of former professor William J. Hamilton, Jr. and his students.
+
+One hundred and two of the 136 families (Wilson &amp;amp; Reed 1993) are represented in the collection. Specimens are present from all continents except Antarctica and more than 100 countries. The collections are particularly strong in North American material. Strongest holdings in this region are from New York, New Jersey, Colorado, California, and Pennsylvania but 48 of the 50 US states and 10 of the Canadian Provinces and Territories are represented.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>http://vertnet.org/resources/norms.html</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://www.cumv.cornell.edu/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Specimens are present from all continents except Antarctica and more than 100 countries. The collections are particularly strong in North American material. Strongest holdings in this region are from New York, New Jersey, Colorado, California, and Pennsylvania but 48 of the 50 US states and 10 of the Canadian Provinces and Territories are represented.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Charles</givenName>          <surName>Dardia</surName>
+    </individualName>
+<organizationName>Cornell University Museum of Vertebrates</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850-1923</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 607-254-2161</phone><electronicMailAddress>cmd7@cornell.edu</electronicMailAddress><onlineUrl>http://www.cumv.cornell.edu</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:40Z</dateStamp>
+      <citation>Dillman C, Dardia C (2018). CUMV Mammal Collection. Version 27.17. Cornell University Museum of Vertebrates. Occurrence dataset https://doi.org/10.15468/kkgkne accessed via GBIF.org on 2020-06-15.</citation>
+              <resourceLogoUrl>http://ipt.vertnet.org:8080/ipt/logo.do?r=cumv_mamm</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

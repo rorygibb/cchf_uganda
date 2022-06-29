@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="512c11b0-a103-11de-88ae-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ukdxqp</alternateIdentifier>
+        <alternateIdentifier>http://168.96.62.13:8080/ipt/resource?r=macnma</alternateIdentifier>
+        <alternateIdentifier>512c11b0-a103-11de-88ae-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>9115</alternateIdentifier>
+    <title>Museo Argentino de Ciencias Naturales &quot;Bernardino Rivadavia&quot; (MACN). Mammalogy National Collection (MACNMa)</title>
+    <creator>
+    <individualName>
+<givenName>Pablo</givenName>          <surName>Teta</surName>
+    </individualName>
+<organizationName>Museo Argentino de Ciencias Naturales &apos;Bernardino Rivadavia&apos;</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Angel Gallardo 470</deliveryPoint><city>Ciudad Autónoma de Buenos Aires</city><administrativeArea>C.A.B.A.</administrativeArea><postalCode>C1405DJR</postalCode><country>ARGENTINA</country>    </address>
+<phone>(5411) 4982-0306 / 1154 / 5243 / 4494</phone><electronicMailAddress>pteta@macn.gov.ar</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Daniel</givenName>          <surName>Rodríguez</surName>
+    </individualName>
+<electronicMailAddress>drodriguez@macn.gov.ar</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2020-06-03
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Database of the collection of Mammalogy, contains records mainly of the orders Rodentia, Chiroptera, and Carnivora from Argentina.  Other Mammals orders are represented by fewer records.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Pablo</givenName>          <surName>Teta</surName>
+    </individualName>
+<organizationName>Museo Argentino de Ciencias Naturales &apos;Bernardino Rivadavia&apos;</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Av. Angel Gallardo 470</deliveryPoint><city>Ciudad Autónoma de Buenos Aires</city><administrativeArea>C.A.B.A</administrativeArea><postalCode>C1405DJR</postalCode><country>ARGENTINA</country>    </address>
+<phone>(5411) 4982-0306 / 1154 / 5243 / 4494</phone><electronicMailAddress>pteta@macn.gov.ar</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:40Z</dateStamp>
+      <citation>Teta P, Rodríguez D (2020). Museo Argentino de Ciencias Naturales &quot;Bernardino Rivadavia&quot; (MACN). Mammalogy National Collection (MACNMa). Museo Argentino de Ciencias Naturales. Occurrence dataset https://doi.org/10.15468/ukdxqp accessed via GBIF.org on 2020-06-15.</citation>
+              <resourceLogoUrl>http://168.96.62.13:8080/ipt/logo.do?r=macnma</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

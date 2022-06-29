@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0debafd0-6c8a-11de-8225-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/gscnac</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr341</alternateIdentifier>
+        <alternateIdentifier>5145fb8f-ec88-37f3-ad1d-345f0083d998</alternateIdentifier>
+        <alternateIdentifier>http://collections.ala.org.au/public/show/dr341</alternateIdentifier>
+        <alternateIdentifier>0debafd0-6c8a-11de-8225-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>e9d5fac5-6c34-3693-8af3-a265acb8f166</alternateIdentifier>
+        <alternateIdentifier>7fde46c7-1089-3d15-937e-55dcca9316e1</alternateIdentifier>
+        <alternateIdentifier>9106</alternateIdentifier>
+    <title>Australian National Wildlife Collection provider for OZCAM</title>
+    <creator>
+<organizationName>OZCAM (Online Zoological Collections of Australian Museums) Provider</organizationName><onlineUrl>http://www.ozcam.org.au/</onlineUrl>    </creator>
+    <creator>
+<organizationName>Australian National Wildlife Collection</organizationName>    <address>
+<deliveryPoint>Bellenden Street</deliveryPoint><city>Crace</city><administrativeArea>Australian Capital Territory</administrativeArea><postalCode>2911</postalCode><country>AUSTRALIA</country>    </address>
+<onlineUrl>https://www.csiro.au/en/Research/Collections/ANWC</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>OZCAM (Online Zoological Collections of Australian Museums) Provider</organizationName><onlineUrl>http://www.ozcam.org.au/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-06-05
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Australian National Wildlife Collection provider for OZCAM. ANWC is part of the Australia&amp;#39;s Commonwealth Scientific and Industrial Research Organisation (CSIRO)</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr341</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>OZCAM</givenName>          <surName>Webmaster</surName>
+    </individualName>
+<positionName>Webmaster</positionName><electronicMailAddress>OZCAM.CHAFC@gmail.com</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:40Z</dateStamp>
+      <citation>Commonwealth Scientific and Industrial Research Organisation (2020). Australian National Wildlife Collection provider for OZCAM. Occurrence dataset https://doi.org/10.15468/gscnac accessed via GBIF.org on 2020-06-15.</citation>
+              <resourceLogoUrl>https://collections.ala.org.au/data/dataProvider/ozcam.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

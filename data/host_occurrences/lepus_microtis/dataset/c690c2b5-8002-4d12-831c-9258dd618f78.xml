@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c690c2b5-8002-4d12-831c-9258dd618f78"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/rbon8c</alternateIdentifier>
+        <alternateIdentifier>http://maerua.iict.pt/ipt/resource?r=iict_cz</alternateIdentifier>
+        <alternateIdentifier>http://maerua.iict.pt/ipt/resource.do?r=iict_cz</alternateIdentifier>
+        <alternateIdentifier>c690c2b5-8002-4d12-831c-9258dd618f78</alternateIdentifier>
+        <alternateIdentifier>15022</alternateIdentifier>
+    <title>IICT Colecção Zoológica</title>
+    <creator>
+    <individualName>
+<givenName>Rui</givenName>          <surName>Figueira</surName>
+    </individualName>
+<organizationName>Instituto de Investigação Científica Tropical</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Trav. Conde da Ribeira 9</deliveryPoint><city>Lisboa</city><postalCode>1300-142</postalCode><country>PORTUGAL</country>    </address>
+<phone>+351-213616340</phone><electronicMailAddress>rui.figueira@iict.pt</electronicMailAddress><onlineUrl>http://maerua.iict.pt/colecoes</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Rui</givenName>          <surName>Figueira</surName>
+    </individualName>
+<organizationName>Instituto de Investigação Científica Tropical</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Trav. Conde da Ribeira 9</deliveryPoint><city>Lisboa</city><postalCode>1300-142</postalCode><country>PORTUGAL</country>    </address>
+<phone>+351-213616340</phone><electronicMailAddress>rui.figueira@iict.pt</electronicMailAddress><onlineUrl>http://maerua.iict.pt/colecoes</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Rui</givenName>          <surName>Figueira</surName>
+    </individualName>
+<organizationName>Instituto de Investigação Científica Tropical</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Trav. Conde da Ribeira 9</deliveryPoint><city>Lisboa</city><postalCode>1300-142</postalCode><country>PORTUGAL</country>    </address>
+<phone>+351-213616340</phone><electronicMailAddress>rui.figueira@iict.pt</electronicMailAddress><onlineUrl>http://maerua.iict.pt/colecoes</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-04-19
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>The zoological collections in IICT include vertebrates and invertebrates. For the time being, only mammals, birds and amphibians collections are fully cataloged, totalizing about 1500, 5000 and 2000 records, respectively, These include the samples from field expeditions to Guinea-Bissau (1944, 1945, 1946, 1953), to Mozambique (1948, 1955) and to São Tomé and Principe.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Cape Verde</keyword>
+              <keyword>Guinea-Bissau</keyword>
+              <keyword>Angola</keyword>
+              <keyword>Mozambique</keyword>
+              <keyword>mammals</keyword>
+              <keyword>São Tomé and Príncipe</keyword>
+              <keyword>specimens</keyword>
+              <keyword>birds</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://maerua.iict.pt/colecoes</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Main countries represented are Angola, Cape Verde, Guinea-Bissau, Mozambique and São Tomé e Príncipe.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-26.016</westBoundingCoordinate>
+                      <eastBoundingCoordinate>150.469</eastBoundingCoordinate>
+                      <northBoundingCoordinate>52.07</northBoundingCoordinate>
+                      <southBoundingCoordinate>-40.958</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1920-08-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1996-04-16
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Chordata</taxonRankValue>
+                          <commonName>Vertebrates</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Rui</givenName>          <surName>Figueira</surName>
+    </individualName>
+<organizationName>Instituto de Investigação Científica Tropical</organizationName><positionName>Researcher</positionName>    <address>
+<deliveryPoint>Trav. Conde da Ribeira 9</deliveryPoint><city>Lisboa</city><postalCode>1300-142</postalCode><country>PORTUGAL</country>    </address>
+<phone>+351-213616340</phone><electronicMailAddress>rui.figueira@iict.pt</electronicMailAddress><onlineUrl>http://maerua.iict.pt/colecoes</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Data cataloguing was originally done using Specify ver 6. The taxon authority file for mammals was downloaded from ITIS. The authority file for birds follows the IOC bird list.</para>
+                </description>
+            </methodStep>
+            <qualityControl>
+                <description>
+                    <para>Regular quality cycles were performed on the inserted data selected at random, starting at 5% revision rate, with increased adjustments on this rate in function of the error rate.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>LISCDigital</title>
+          <personnel>
+    <individualName>
+<givenName>Rui</givenName>          <surName>Figueira</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Digitization has benefit from funds from several sources: from FCT, the Portuguese National research Council, contracts: PTDC/BIA-QOR/71492/2006; ACTD.</para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:51Z</dateStamp>
+      <citation>Figueira R (2017). IICT Colecção Zoológica. Version 4.2. Instituto de Investigação Científica Tropical. Occurrence dataset https://doi.org/10.15468/rbon8c accessed via GBIF.org on 2020-06-15.</citation>
+              <bibliography>
+      <citation identifier="https://doi.org/10.3897/zookeys.600.7899">Monteiro M, Reino L, Melo M, Beja P, Bastos-Silveira C, Ramos M, Rodrigues D, Neves IQ, Consciência S, Figueira R (2016) The collection of birds from São Tomé and Príncipe at the Instituto de Investigação Científica Tropical of the University of Lisbon (Portugal). ZooKeys 600: 155-167.</citation>
+      <citation identifier="https://doi.org/10.3897/zookeys.387.6412">Monteiro M, Reino L, Beja P, Mills M, Bastos-Silveira C, Ramos M, Rodrigues D, Queirós Neves I, Consciência S, Figueira R (2014) The collection and database of Birds of Angola hosted at IICT (Instituto de Investigação Científica Tropical), Lisboa, Portugal. ZooKeys 387: 89-99.</citation>
+              </bibliography>
+              <resourceLogoUrl>http://www2.iict.pt/imagens/simbolo.gif</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                <collectionIdentifier>24798813-aaff-4292-98ef-8c9bc415ff14</collectionIdentifier>
+                <collectionName>IICT Colecção Zoológica</collectionName>
+              </collection>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>skins</jgtiUnitType>
+                      <jgtiUnits uncertaintyMeasure="100">5,500</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>bones</jgtiUnitType>
+                      <jgtiUnits uncertaintyMeasure="100">600</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>specimen in jar</jgtiUnitType>
+                      <jgtiUnits uncertaintyMeasure="100">700</jgtiUnits>
+                  </jgtiCuratorialUnit>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

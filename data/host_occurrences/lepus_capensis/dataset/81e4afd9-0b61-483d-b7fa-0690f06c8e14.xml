@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="81e4afd9-0b61-483d-b7fa-0690f06c8e14"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/sqbpak</alternateIdentifier>
+        <alternateIdentifier>14194</alternateIdentifier>
+    <title>ISU Mammals</title>
+    <creator>
+    <individualName>
+<givenName>Gretchen</givenName>          <surName>Knapp</surName>
+    </individualName>
+<organizationName>John Wesley Powell-Dale Birkenholz Natural History Collections</organizationName><positionName>Collections Manager</positionName>    <address>
+<deliveryPoint>411 SLB (Science Lab Building)</deliveryPoint><city>Normal</city><administrativeArea>IL</administrativeArea><postalCode>61790-4120</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 309-438-5556</phone><electronicMailAddress>geknapp@ilstu.edu</electronicMailAddress><onlineUrl>http://bio.illinoisstate.edu/facilities/naturalhistory/index.shtml</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Gretchen</givenName>          <surName>Knapp</surName>
+    </individualName>
+<organizationName>John Wesley Powell-Dale Birkenholz Natural History Collections</organizationName><positionName>Collections Manager</positionName>    <address>
+<deliveryPoint>411 SLB (Science Lab Building)</deliveryPoint><city>Normal</city><administrativeArea>IL</administrativeArea><postalCode>61790-4120</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 309-438-5556</phone><electronicMailAddress>geknapp@ilstu.edu</electronicMailAddress><onlineUrl>http://bio.illinoisstate.edu/facilities/naturalhistory/index.shtml</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><phone>+01 785 813-1496</phone><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+      <pubDate>
+      2012-06-07
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>John Wesley Powell &amp;amp; Dale Birkenholz Natural History Collections
+
+The bird and mammal collections total over 6,000 specimens representing 560 species and 120 families, and date back to 1867. The bulk of the collections is from Illinois and the United States, with holdings also from Africa, India, Europe, and South America. We prepare salvaged birds and mammals into scientific study skins, and save stomach contents, skeletons, and frozen tissues (for DNA).</para>
+    </abstract>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://biology.illinoisstate.edu/apcappar/collections/</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Dr. Angelo</givenName>          <surName>Capparella</surName>
+    </individualName>
+<organizationName>John Wesley Powell-Dale Birkenholz Natural History Collections</organizationName><positionName>Curator of Vertebrates</positionName>    <address>
+<deliveryPoint>419 SLB (Science Lab Building)</deliveryPoint><city>Normal</city><administrativeArea>IL</administrativeArea><postalCode>61790-4120</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 309-438-5124</phone><electronicMailAddress>apcappar@ilstu.edu</electronicMailAddress><onlineUrl>http://bio.illinoisstate.edu/facilities/naturalhistory/index.shtml</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:36Z</dateStamp>
+      <citation>Knapp G (2012). ISU Mammals. Illinois State University. Occurrence dataset https://doi.org/10.15468/sqbpak accessed via GBIF.org on 2020-06-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,95 @@
+When using this dataset please use the following citation and pay attention to the rights documented in rights.txt:
+Knapp G (2012). ISU Mammals. Illinois State University. Occurrence dataset https://doi.org/10.15468/sqbpak accessed via GBIF.org on 2020-06-15.
+Bradley J (2020). UWBM Mammalogy Collection (Arctos). University of Washington Burke Museum. Occurrence dataset https://doi.org/10.15468/qziy3w accessed via GBIF.org on 2020-06-15.
+Lanier H, Braun J, King P (2020). Mammals Specimens. Sam Noble Oklahoma Museum of Natural History. Occurrence dataset https://doi.org/10.15468/fmuion accessed via GBIF.org on 2020-06-15.
+UNIBIO, IBUNAM. CNMA/Colección Nacional de mamíferos. Occurrence dataset https://doi.org/10.15468/rchosl accessed via GBIF.org on 2020-06-15.
+Great Eastern Ranges Initialtive (2019). Great Eastern Ranges - Slopes to Summit. Occurrence dataset https://doi.org/10.15468/4yebfc accessed via GBIF.org on 2020-06-15.
+Mukeka J, Hongo P (2019). Marsabit Ecosystem Inventory Surveys 2014. Version 1.4. Kenya Wildlife Service. Occurrence dataset https://doi.org/10.15468/idnvti accessed via GBIF.org on 2020-06-15.
+European Nucleotide Archive (EMBL-EBI) (2019). Geographically tagged INSDC sequences. Occurrence dataset https://doi.org/10.15468/cndomv accessed via GBIF.org on 2020-06-15.
+Cook J (2020). MSB Mammal Collection (Arctos). Version 35.37. Museum of Southwestern Biology. Occurrence dataset https://doi.org/10.15468/oirgxw accessed via GBIF.org on 2020-06-15.
+Atlas of Living Australia (2019). NatureShare. Occurrence dataset https://doi.org/10.15468/4cqg2v accessed via GBIF.org on 2020-06-15.
+Mukeka J, Hongo P (2019). Mt. Kenya Inventory Surveys 2009. Version 1.5. Kenya Wildlife Service. Occurrence dataset https://doi.org/10.15468/liaksh accessed via GBIF.org on 2020-06-15.
+Carita D, Meister M, Ludes-Fraulob E, Wandhammer M (2020). Mammal osteology MZS. Version 1.1. Musée Zoologique de la Ville de Strasbourg. Occurrence dataset https://doi.org/10.15468/wc8hub accessed via GBIF.org on 2020-06-15.
+Olson L (2020). UAM Mammal Collection (Arctos). Version 34.37. University of Alaska Museum of the North. Occurrence dataset https://doi.org/10.15468/lbixob accessed via GBIF.org on 2020-06-15.
+Museums Victoria (2020). Museums Victoria provider for OZCAM. Occurrence dataset https://doi.org/10.15468/lp1ctu accessed via GBIF.org on 2020-06-15.
+Danufsky T (2018). HSU Wildlife Mammals. Version 7.2. Humboldt State University. Occurrence dataset https://doi.org/10.15468/euqjrh accessed via GBIF.org on 2020-06-15.
+Telenius A, Ekström J (2020). Lund Museum of Zoology (MZLU). GBIF-Sweden. Occurrence dataset https://doi.org/10.15468/mw39rb accessed via GBIF.org on 2020-06-15.
+Roberts D (2020). CHAS Mammalogy Collection (Arctos). Version 13.37. Chicago Academy of Sciences. Occurrence dataset https://doi.org/10.15468/ebxyjx accessed via GBIF.org on 2020-06-15.
+Tasmanian Museum and Art Gallery (2019). Tasmanian Museum and Art Gallery provider for OZCAM. Occurrence dataset https://doi.org/10.15468/ijp8p9 accessed via GBIF.org on 2020-06-15.
+Reiss J (2017). HSU Vertebrate Museum Mammals Collection. Version 2.3. Humboldt State University. Occurrence dataset https://doi.org/10.15468/p7bz9e accessed via GBIF.org on 2020-06-15.
+Caritg R, Martínez de la Riva S (2016). Vertebrats d'Andorra. Centre d'estudis de la neu i de la muntanya d'Andorra (CENMA), Institut d'Estudis Andorrans. Occurrence dataset https://doi.org/10.15468/9czi29 accessed via GBIF.org on 2020-06-15.
+Museum für Naturkunde Berlin. MfN - Fossil vertebrates IV. Occurrence dataset https://doi.org/10.15468/kneffk accessed via GBIF.org on 2020-06-15.
+Museum für Naturkunde Berlin. EDIT - ATBI in Spreewald (Germany). Occurrence dataset https://doi.org/10.15468/ciws2x accessed via GBIF.org on 2020-06-15.
+Besson L (2016). Mammifères (sauf Chiroptères) du Muséum d'Histoire Naturelle de la ville de Bourges (BOUM). Version 11.4. Muséum d'Histoire Naturelle de Bourges. Occurrence dataset https://doi.org/10.15468/kfxlfj accessed via GBIF.org on 2020-06-15.
+Turpel A, Walisch T (2020). Collections and observation data National Museum of Natural History Luxembourg. Musée national d'histoire naturelle Luxembourg. Occurrence dataset https://doi.org/10.15468/s2iu7d accessed via GBIF.org on 2020-06-15.
+Musila S, Syingi R, Mutavi D, Odhiambo K, Masinde S (2019). Occurrence records of mammal species in Tana River Basin, Kenya. Version 1.1. National Museums of Kenya. Occurrence dataset https://doi.org/10.15468/0msz3d accessed via GBIF.org on 2020-06-15.
+Millen B, Seymour K (2018). Palaeobiology - Vertebrate Fossils Collection - Mammalia - Royal Ontario Museum. Version 7.5. Royal Ontario Museum. Occurrence dataset https://doi.org/10.15468/50n0dc accessed via GBIF.org on 2020-06-15.
+Yêhouénou Tessi D R (2017). List of animalia, fungi and plant species recorded through naturalist observations and research activities in Benin. Data mobilized in the framework of a JRS Biodiversity Foundation project of Benin. Laboratory of Forest Sciences (University of Abomey-Calavi). Occurrence dataset https://doi.org/10.15468/22kwre accessed via GBIF.org on 2020-06-15.
+Szabo I (2016). Cowan Tetrapod Collection - Mammals. Version 5.1. University of British Columbia. Occurrence dataset https://doi.org/10.15468/qgdpad accessed via GBIF.org on 2020-06-15.
+Conservation International. Rapid Assessment Program (RAP) Biodiversity Survey Database. Occurrence dataset https://doi.org/10.15468/tsrjm0 accessed via GBIF.org on 2020-06-15.
+Gross J (2020). University of California Museum of Paleontology. Version 125.128. Berkeley Natural History Museums. Occurrence dataset https://doi.org/10.15468/bxpyo3 accessed via GBIF.org on 2020-06-15.
+KINGBO A, KIKI P P B (2016). Census of the animals of Benin. Version 1.2. GBIF Benin. Occurrence dataset https://doi.org/10.15468/h7rqo9 accessed via GBIF.org on 2020-06-15.
+SysTax. SysTax -  Zoological Collections. Occurrence dataset https://doi.org/10.15468/zyqkbl accessed via GBIF.org on 2020-06-15.
+Stevens E, Gerhard D (2016). NYSM Mammals. Version 16.1. New York State Museum (NYSM). Occurrence dataset https://doi.org/10.15468/awwifu accessed via GBIF.org on 2020-06-15.
+Esselstyn J (2017). LSUMZ Mammals Collection. Louisiana State University Museum of Natural Science. Occurrence dataset https://doi.org/10.15468/wxiqf6 accessed via GBIF.org on 2020-06-15.
+Bender B, Soria R, Roig Juñent S A (2017). Colección Mastozoológica del IADIZA - CCT CONICET Mendoza: IADIZA-CMI. Ministerio de Ciencia, Tecnología e Innovación Productiva. Occurrence dataset https://doi.org/10.15468/t5iqmq accessed via GBIF.org on 2020-06-15.
+Sazima I (2020). ZUEC-MAM - Coleção de Mamíferos do Museu de Zoologia da UNICAMP. Version 1.48. Universidade Estadual de Campinas - Instituto de Biologia. Occurrence dataset https://doi.org/10.15468/yqhyqe accessed via GBIF.org on 2020-06-15.
+Asantewaa E (2018). Vertebrate collections of the Department of Animal Biology and Conservation Sciences, University of Ghana. Version 1.3. Department of Animal Biology and Conservation Sciences, University of Ghana. Occurrence dataset https://doi.org/10.15468/vs0q6s accessed via GBIF.org on 2020-06-15.
+Muséum d'histoire naturelle de la Ville de Genève - MHNG. Mammals housed at MHNG, Geneva. Occurrence dataset https://doi.org/10.15468/lwu4fj accessed via GBIF.org on 2020-06-15.
+Garner H (2016). TTU Mammals Collection. Version 9.1. Museum of Texas Tech University (TTU). Occurrence dataset https://doi.org/10.15468/yocqyp accessed via GBIF.org on 2020-06-15.
+Conroy C (2020). MVZ Mammal Collection (Arctos). Version 35.37. Museum of Vertebrate Zoology. Occurrence dataset https://doi.org/10.15468/uwudf9 accessed via GBIF.org on 2020-06-15.
+Quesada Lara J, Agulló Villaronga J (2019). Museu de Ciències Naturals de Barcelona: MCNB-Tissue. Museu de Ciències Naturals de Barcelona. Occurrence dataset https://doi.org/10.15468/mwcmb5 accessed via GBIF.org on 2020-06-15.
+Maponga T, Mkhwananzi K, Sibanda M, Rukuni P (2018). Making the zoology collection at the Natural History Museum of Zimbabwe accessible through GBIF by end of 2017 (BID-AF2015-0117-SMA). Version 1.11. Natural History Museum of Zimbabwe. Occurrence dataset https://doi.org/10.15468/mmhmlb accessed via GBIF.org on 2020-06-15.
+Musila S, Rumoky J, Muthama L, Legrange G, Zuhura A, Odhiambo K, Kamau P, Masinde S (2020). Occurrence records of small and medium sized mammal species in Tana River Basin, Kenya. Version 1.3. National Museums of Kenya. Occurrence dataset https://doi.org/10.15468/xtsgbk accessed via GBIF.org on 2020-06-15.
+Creuwels J (2017). Naturalis Biodiversity Center (NL) - Museum collection digitized at storage unit level. Naturalis Biodiversity Center. Occurrence dataset https://doi.org/10.15468/17e8en accessed via GBIF.org on 2020-06-15.
+Johannessen L E, Wiig Ø (2020). NHMO Mammal collection. Version 31.214. Natural History Museum, University of Oslo. Occurrence dataset https://doi.org/10.15468/knvqao accessed via GBIF.org on 2020-06-15.
+University of Michigan Museum of Zoology (2020). University of Michigan Museum of Zoology, Division of Mammals. Version 8.23. Occurrence dataset https://doi.org/10.15468/dx3rcj accessed via GBIF.org on 2020-06-15.
+Creuwels J (2020). Naturalis Biodiversity Center (NL) - Mammalia. Naturalis Biodiversity Center. Occurrence dataset https://doi.org/10.15468/d7gugd accessed via GBIF.org on 2020-06-15.
+Dillman C, Dardia C (2018). CUMV Mammal Collection. Version 27.17. Cornell University Museum of Vertebrates. Occurrence dataset https://doi.org/10.15468/kkgkne accessed via GBIF.org on 2020-06-15.
+Queen Victoria Museum and Art Gallery (2019). Queen Victoria Museum Art Gallery provider for OZCAM. Occurrence dataset https://doi.org/10.15468/tedfxn accessed via GBIF.org on 2020-06-15.
+Commonwealth Scientific and Industrial Research Organisation (2020). Australian National Wildlife Collection provider for OZCAM. Occurrence dataset https://doi.org/10.15468/gscnac accessed via GBIF.org on 2020-06-15.
+Slade N (2020). KUBI Mammalogy Collection. Version 26.34. University of Kansas Biodiversity Institute. Occurrence dataset https://doi.org/10.15468/a3woj7 accessed via GBIF.org on 2020-06-15.
+Teta P, Rodríguez D (2020). Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" (MACN). Mammalogy National Collection (MACNMa). Museo Argentino de Ciencias Naturales. Occurrence dataset https://doi.org/10.15468/ukdxqp accessed via GBIF.org on 2020-06-15.
+Museum and Art Gallery of the Northern Territory (2019). Northern Territory Museum and Art Gallery provider for OZCAM. Occurrence dataset https://doi.org/10.15468/giro3a accessed via GBIF.org on 2020-06-15.
+Abraczinskas L (2016). MSU Mammalogy, Ornithology and Vertebrate Paleontology Collections. Version 8.1. Michigan State University Museum. Occurrence dataset https://doi.org/10.15468/xypr72 accessed via GBIF.org on 2020-06-15.
+Millen B, Lim B (2018). Mammalogy Collection - Royal Ontario Museum. Version 11.5. Royal Ontario Museum. Occurrence dataset https://doi.org/10.15468/2rlrvh accessed via GBIF.org on 2020-06-15.
+Miękina B (2017). Mammalia Collection of Institute of Systematics and Evolution of Animals. Institute of Systematics and Evolution of Animals, Polish Academy of Sciences. Occurrence dataset https://doi.org/10.15468/f0tuuw accessed via GBIF.org on 2020-06-15.
+Harvard University M, Morris P J (2020). Museum of Comparative Zoology, Harvard University. Version 162.213. Museum of Comparative Zoology, Harvard University. Occurrence dataset https://doi.org/10.15468/p5rupv accessed via GBIF.org on 2020-06-15.
+Tworek S (2017). National System of Protected Areas in Poland - Animals. Institute of Nature Conservation, Polish Academy of Sciences. Occurrence dataset https://doi.org/10.15468/she3lx accessed via GBIF.org on 2020-06-15.
+Royal Belgian Institute of Natural Sciences (2017). RBINS DaRWIN. Occurrence dataset https://doi.org/10.15468/qxy4mc accessed via GBIF.org on 2020-06-15.
+Queensland Museum (2020). Queensland Museum provider for OZCAM. Occurrence dataset https://doi.org/10.15468/lotsye accessed via GBIF.org on 2020-06-15.
+Gall L (2020). Vertebrate Zoology Division - Mammalogy, Yale Peabody Museum. Yale University Peabody Museum. Occurrence dataset https://doi.org/10.15468/4mm6uc accessed via GBIF.org on 2020-06-15.
+Bohm C, Jonsson C (2017). Vertebrates of the Gothenburg Natural History Museum (GNM). Version 4.2. Gothenburg Natural History Museum (GNM). Occurrence dataset https://doi.org/10.15468/xmrfet accessed via GBIF.org on 2020-06-15.
+Horvitz N (2015). BioGIS - Mammals - SPNI. Israel Nature and Parks Authority. Occurrence dataset https://doi.org/10.15468/foby5h accessed via GBIF.org on 2020-06-15.
+The International Barcode of Life Consortium (2016). International Barcode of Life project (iBOL). Occurrence dataset https://doi.org/10.15468/inygc6 accessed via GBIF.org on 2020-06-15.
+Atlas of Living Australia (2020). Canberra Nature Map. Occurrence dataset https://doi.org/10.15468/uv6p4z accessed via GBIF.org on 2020-06-15.
+Australian Museum (2020). Australian Museum provider for OZCAM. Occurrence dataset https://doi.org/10.15468/e7susi accessed via GBIF.org on 2020-06-15.
+Figueira R (2017). IICT Colecção Zoológica. Version 4.2. Instituto de Investigação Científica Tropical. Occurrence dataset https://doi.org/10.15468/rbon8c accessed via GBIF.org on 2020-06-15.
+Questagame (2020). Questagame weekly feed. Occurrence dataset https://doi.org/10.15468/slqqt8 accessed via GBIF.org on 2020-06-15.
+Atlas of Living Australia (2019). Brisbane City Council. Occurrence dataset https://doi.org/10.15468/ljfjwq accessed via GBIF.org on 2020-06-15.
+naturgucker.de. naturgucker. Occurrence dataset https://doi.org/10.15468/uc1apo accessed via GBIF.org on 2020-06-15.
+Citizen Science - ALA Website (2020). ALA species sightings and OzAtlas. Occurrence dataset https://doi.org/10.15468/jayxmn accessed via GBIF.org on 2020-06-15.
+Quesada Lara J, Agulló Villaronga J (2019). Museu de Ciències Naturals de Barcelona: MCNB-Cord. Museu de Ciències Naturals de Barcelona. Occurrence dataset https://doi.org/10.15468/yta7zj accessed via GBIF.org on 2020-06-15.
+South Australian Museum (2020). South Australian Museum Australia provider for OZCAM. Occurrence dataset https://doi.org/10.15468/wz4rrh accessed via GBIF.org on 2020-06-15.
+Senckenberg. Collection Mammalia SMF. Occurrence dataset https://doi.org/10.15468/igaciv accessed via GBIF.org on 2020-06-15.
+McClennen M, Jenkins J, Uhen M (2017). Paleobiology Database. Paleobiology Database. Occurrence dataset https://doi.org/10.15468/jfqhiu accessed via GBIF.org on 2020-06-15.
+Flannery M, Fong J (2020). CAS Mammalogy (MAM). Version 133.224. California Academy of Sciences. Occurrence dataset https://doi.org/10.15468/dhbozg accessed via GBIF.org on 2020-06-15.
+Feeney R (2019). LACM Vertebrate Collection. Version 18.7. Natural History Museum of Los Angeles County. Occurrence dataset https://doi.org/10.15468/77rmwd accessed via GBIF.org on 2020-06-15.
+Atlas of Living Australia (2019). ACT Wildlife Atlas. Occurrence dataset https://doi.org/10.15468/3bsmhl accessed via GBIF.org on 2020-06-15.
+Dorman M (2016). Large mammals in Israel from camera traps. Version 1.5. Hamaarag. Sampling event dataset https://doi.org/10.15468/7cozwv accessed via GBIF.org on 2020-06-15.
+Ueda K (2020). iNaturalist Research-grade Observations. iNaturalist.org. Occurrence dataset https://doi.org/10.15468/ab3s5x accessed via GBIF.org on 2020-06-15.
+Horvitz N, Rabinovich R (2015). BioGIS - Mammals - HUJ collections. Israel Nature and Parks Authority. Occurrence dataset https://doi.org/10.15468/56fgyv accessed via GBIF.org on 2020-06-15.
+Atlas of Living Australia (2019). Arthur Chapman Observations. Occurrence dataset https://doi.org/10.15468/nh6xae accessed via GBIF.org on 2020-06-15.
+Gortat T (2017). Faunal Inventory of Morysin Nature Reserve. University of Warsaw, Dept. of Ecology. Occurrence dataset https://doi.org/10.15468/x3renj accessed via GBIF.org on 2020-06-15.
+Natural History Museum (2020). Natural History Museum (London) Collection Specimens. Occurrence dataset https://doi.org/10.5519/0002965 accessed via GBIF.org on 2020-06-15.
+Trombone T (2016). AMNH Mammal Collections. American Museum of Natural History. Occurrence dataset https://doi.org/10.15468/wu3poe accessed via GBIF.org on 2020-06-15.
+Tasmanian Department of Primary Industries, Parks, Water and Environment (2019). Tasmanian Natural Values Atlas. Occurrence dataset https://doi.org/10.15468/rtnb4m accessed via GBIF.org on 2020-06-15.
+Manamela K, Ranwashe F (2017). Ditsong National Museum of Natural History Collection: 1805-2008. Version 1.3. South African National Biodiversity Institute. Occurrence dataset https://doi.org/10.15468/xmgkma accessed via GBIF.org on 2020-06-15.
+Orrell T (2020). NMNH Extant Specimen Records. Version 1.32. National Museum of Natural History, Smithsonian Institution. Occurrence dataset https://doi.org/10.15468/hnhrg3 accessed via GBIF.org on 2020-06-15.
+Horvitz N, Olsvig-Whittaker L (2015). BioGIS - Mammals - INPA database. Israel Nature and Parks Authority. Occurrence dataset https://doi.org/10.15468/caiqm0 accessed via GBIF.org on 2020-06-15.
+Grant S, Ferguson A (2020). Field Museum of Natural History (Zoology) Mammal Collection. Version 9.11. Field Museum. Occurrence dataset https://doi.org/10.15468/n4zgxw accessed via GBIF.org on 2020-06-15.
+Atlas of Living Australia (2019). WildNet - Queensland Wildlife Data. Occurrence dataset https://doi.org/10.15468/lxgoyb accessed via GBIF.org on 2020-06-15.
+Israel Nature and Parks Authority. Israel Nature and Parks Authority. Occurrence dataset https://doi.org/10.15468/cmnjt1 accessed via GBIF.org on 2020-06-15.
+South Australia, Department for Environment and Water (2020). SA Fauna (BDBSA). Occurrence dataset https://doi.org/10.15468/xsderl accessed via GBIF.org on 2020-06-15.
+Office of Environment & Heritage (2019). OEH Atlas of NSW Wildlife. Occurrence dataset https://doi.org/10.15468/14jd9g accessed via GBIF.org on 2020-06-15.
+Nyegaard T (2020). DOF - Observations from the Danish Ornithological Society. Danish Ornithological Society. Occurrence dataset https://doi.org/10.15468/tww7cj accessed via GBIF.org on 2020-06-15.

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="b6465deb-2071-445a-9ebd-d5722e1ed7e2"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/4cqg2v</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr635</alternateIdentifier>
+        <alternateIdentifier>fffcf790-ae6a-396e-a1b1-f3c8af62daa2</alternateIdentifier>
+        <alternateIdentifier>http://collections.ala.org.au/public/show/dr635</alternateIdentifier>
+        <alternateIdentifier>b6465deb-2071-445a-9ebd-d5722e1ed7e2</alternateIdentifier>
+        <alternateIdentifier>eb35e9f3-6fa8-369d-afba-d106a8948db4</alternateIdentifier>
+        <alternateIdentifier>d8bdcffd-4af2-3479-96b5-094e92030e6b</alternateIdentifier>
+    <title>NatureShare</title>
+    <creator>
+<organizationName>NatureShare</organizationName><electronicMailAddress>contact@natureshare.org.au</electronicMailAddress><onlineUrl>https://natureshare.org.au/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>NatureShare</organizationName><electronicMailAddress>contact@natureshare.org.au</electronicMailAddress><onlineUrl>https://natureshare.org.au/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-11-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>NatureShare is a database for individuals and groups to document and share information about their local environment. Everything you put into NatureShare (photos, locations, biological attributes) is shared in a real and functional way with everyone across Victoria. NatureShare is free to everyone and can be used by anyone (individuals, groups, councils, companies, etc). Anyone, or any group, can set up species &amp;#39;collections&amp;#39; for their own property, for parks/reserves, for areas/towns, for anything, anywhere.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr635</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+          <surName>NatureShare</surName>
+    </individualName>
+<positionName>Contact</positionName><electronicMailAddress>contact@natureshare.org.au</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:36Z</dateStamp>
+      <citation>Atlas of Living Australia (2019). NatureShare. Occurrence dataset https://doi.org/10.15468/4cqg2v accessed via GBIF.org on 2020-06-15.</citation>
+              <resourceLogoUrl>https://collections.ala.org.au/data/dataResource/natureshare_logo_sm.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

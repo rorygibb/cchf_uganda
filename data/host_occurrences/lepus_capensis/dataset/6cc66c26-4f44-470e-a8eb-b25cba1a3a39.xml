@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="6cc66c26-4f44-470e-a8eb-b25cba1a3a39"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/9czi29</alternateIdentifier>
+        <alternateIdentifier>http://www.ipt-cenma.ad/resource?r=dades-vertebrates</alternateIdentifier>
+    <title>Vertebrats d&apos;Andorra</title>
+    <creator>
+    <individualName>
+<givenName>Roger</givenName>          <surName>Caritg</surName>
+    </individualName>
+<organizationName>CENMA - Centre d&apos;Estudis de la Neu i de la Muntanya d&apos;Andorra</organizationName><positionName>Node Manager</positionName>    <address>
+<deliveryPoint>Av. Rocafort , 21-23 Edifici Molí, 3r pis</deliveryPoint><city>Sant Julià de Lòria</city><administrativeArea>Andorra</administrativeArea><postalCode>AD600</postalCode><country>ANDORRA</country>    </address>
+<phone>(+376) 742630</phone><electronicMailAddress>rcaritg.cenma@iea.ad</electronicMailAddress><onlineUrl>http://www.cenma.ad</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Santiago</givenName>          <surName>Martínez de la Riva</surName>
+    </individualName>
+<organizationName>SMR</organizationName><positionName>Consultant</positionName>    <address>
+<city>Madrid</city><administrativeArea>Madrid</administrativeArea><country>SPAIN</country>    </address>
+<electronicMailAddress>santiagomtzdelariva@yahoo.es</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Roger</givenName>          <surName>Caritg</surName>
+    </individualName>
+<organizationName>CENMA - Centre d&apos;Estudis de la Neu i de la Muntanya d&apos;Andorra</organizationName><positionName>Node Manager</positionName>    <address>
+<deliveryPoint>Av. Rocafort , 21-23 Edifici Molí, 3r pis</deliveryPoint><city>Sant Julià de Lòria</city><administrativeArea>Andorra</administrativeArea><postalCode>AD600</postalCode><country>ANDORRA</country>    </address>
+<phone>(+376) 742630</phone><electronicMailAddress>rcaritg.cenma@iea.ad</electronicMailAddress><onlineUrl>http://www.cenma.ad</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Roger</givenName>          <surName>Caritg</surName>
+    </individualName>
+<organizationName>CENMA - Centre d&apos;Estudis de la Neu i de la Muntanya d&apos;Andorra</organizationName><positionName>Node Manager</positionName>    <address>
+<deliveryPoint>Av. Rocafort , 21-23 Edifici Molí, 3r pis</deliveryPoint><city>Sant Julià de Lòria</city><administrativeArea>Andorra</administrativeArea><postalCode>AD600</postalCode><country>ANDORRA</country>    </address>
+<phone>(+376) 742630</phone><electronicMailAddress>rcaritg.cenma@iea.ad</electronicMailAddress><onlineUrl>http://www.cenma.ad</onlineUrl>    <role>PUBLISHER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Roger</givenName>          <surName>Caritg</surName>
+    </individualName>
+<organizationName>CENMA - Centre d&apos;Estudis de la Neu i de la Muntanya d&apos;Andorra</organizationName><positionName>Node Manager</positionName>    <address>
+<deliveryPoint>Av. Rocafort , 21-23 Edifici Molí, 3r pis</deliveryPoint><city>Sant Julià de Lòria</city><administrativeArea>Andorra</administrativeArea><postalCode>AD600</postalCode><country>ANDORRA</country>    </address>
+<phone>(+376) 742630</phone><electronicMailAddress>rcaritg.cenma@iea.ad</electronicMailAddress><onlineUrl>http://www.cenma.ad</onlineUrl>    <role>EDITOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Santiago</givenName>          <surName>Martínez de la Riva</surName>
+    </individualName>
+<organizationName>SMR</organizationName><positionName>Consultant</positionName>    <address>
+<city>Madrid</city><country>SPAIN</country>    </address>
+<electronicMailAddress>santiagomtzdelariva@yahoo.es</electronicMailAddress>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2016-03-12
+      </pubDate>
+    <language>CATALAN</language>
+    <abstract>
+        <para>Los datos “Vertebrats d’Andorra” son una recopilación de los datos de vertebrados que se han observado en territorio andorrano. Tal recopilación ha sido realizada por el Centre d’Estudis de la Neu i de la Muntanya d’Andorra de l’Institut d’Estudis Andorrans (CENMA-IEA). La gran mayoría de los datos provienen de citas bibliográficas pero también se incluyen los datos generados y contrastados por las propias instituciones públicas o empresas andorranas. 
+Este conjunto de datos fue revisado y actualizado en febrero de 2016 y contiene un total de 36836 registros. La precisión espacial de los datos es de 1 km2.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>monograph</keyword>
+              <keyword>publication</keyword>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.iea.ad/cenma</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Andorra es un país situado al sur de Europa en medio de la cordillera de los Pirineos.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>1</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1</eastBoundingCoordinate>
+                      <northBoundingCoordinate>42</northBoundingCoordinate>
+                      <southBoundingCoordinate>42</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <purpose>
+          <para>El propósito principal de este juego de datos es dar a conocer de forma libre la biodiversidad de Andorra y contribuir así al conocimiento general del planeta.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Roger</givenName>          <surName>Caritg</surName>
+    </individualName>
+<organizationName>CENMA - Centre d&apos;Estudis de la Neu i de la Muntanya d&apos;Andorra</organizationName><positionName>Node Manager</positionName>    <address>
+<deliveryPoint>Av. Rocafort , 21-23 Edifici Molí, 3r pis</deliveryPoint><city>Sant Julià de Lòria</city><administrativeArea>Andorra</administrativeArea><postalCode>AD600</postalCode><country>ANDORRA</country>    </address>
+<phone>(+376) 742630</phone><electronicMailAddress>rcaritg.cenma@iea.ad</electronicMailAddress><onlineUrl>http://www.cenma.ad</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Los datos han sido recopilados por el CENMA en un formato común XML a partir del programa libre Fagus (Universidad de Barcelona). Posteriormente se ha transformado Excel y Access para que estos puedan ser revisados a partir de la Herramienta DarwinTest.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Ámbito nacional de Andorra</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Recopilación de los datos bibliográficos y observaciones de campo de las instituciones andorranas.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Todos los datos han sido comprobados por la herramienta DarwinTest (herramienta realizada por GBIF-España).</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:37Z</dateStamp>
+      <citation>Caritg R, Martínez de la Riva S (2016). Vertebrats d&apos;Andorra. Centre d&apos;estudis de la neu i de la muntanya d&apos;Andorra (CENMA), Institut d&apos;Estudis Andorrans. Occurrence dataset https://doi.org/10.15468/9czi29 accessed via GBIF.org on 2020-06-15.</citation>
+              <bibliography>
+      <citation>AHF1991 (1991); Arxiu Herpetologia. Departament de Biologia Animal. Facultat de Biologia. Universitat de Barcelona.</citation>
+      <citation>Arribas, O. J., (1999); Distribución y estatus de Lacerta agilis y Zootoca vivipara en Cataluña.; But. Soc. Cat. d&apos;Herp. (1999), 14: 10-21.</citation>
+      <citation>Asociación Herpetológica Española; Base de datos de Herpetología.</citation>
+      <citation>Bastin, E., (1983); Observations herpetologiques effectués durant le séjour des Naturalistes Belges en Andorre, du 4 au 14 de juillet 1981.; Les naturalistes belges 64:163-172.</citation>
+      <citation>Boada, M., Llimona, F. &amp; Mateu, E. (1979); Introducció a la fauna d&apos;Andorra; Institut d&apos;Estudis Andorrans. Centre de Perpinyà.</citation>
+      <citation>Arxiu Herpetologia. Departament de Biologia Animal. Facultat de Biologia. Universitat de Barcelona. Dades no publicades.</citation>
+      <citation>Folch, R. (direcció) (1984); El patrimoni natural d&apos;Andorra. Els sistemes naturals andorrans i llur utilització; Ketres editora.</citation>
+      <citation>Llorente, G. A., Montori, A., Santos, X. &amp; Carretero, M. A., (1995); Atlas dels Amfibis i Rèptils de Catalunya i Andorra.; Edicions el Brau. Figueres.</citation>
+      <citation>Martínez, V, Sotomayor, X. (2005); La fauna íctica del Principat d&apos;Andorra; Hàbitats, 11, 22-33.</citation>
+      <citation>MVV982A (1982); Arxiu Herpetologia. Departament de Biologia Animal. Facultat de Biologia. Universitat de Barcelona.</citation>
+      <citation>NHC983, (1983); Arxiu Herpetologia. Departament de Biologia Animal. Facultat de Biologia. Universitat de Barcelona.</citation>
+      <citation>Roig, J. M. &amp; Amat, F. (2001); Distribució dels amfíbis i rèptils al Principat d&apos;Andorra; Govern d&apos;Andorra</citation>
+      <citation identifier="ISBN:978-99920-2-063-0">Torre, I.; Freixas, L; Flaquer, C.; Puig, X i Arrizabalaga, A..; (0); Petits mamífers i ratpenats d&apos;Andorra; Monografia del CENMA. Institut d&apos;Estudis Andorrans.</citation>
+              </bibliography>
+              <resourceLogoUrl>http://www.ipt-cenma.ad/logo.do?r=dades-vertebrates</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

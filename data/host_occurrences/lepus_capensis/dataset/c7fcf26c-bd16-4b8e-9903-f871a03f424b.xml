@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c7fcf26c-bd16-4b8e-9903-f871a03f424b"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ljfjwq</alternateIdentifier>
+        <alternateIdentifier>https://collections.ala.org.au/public/show/dr9662</alternateIdentifier>
+        <alternateIdentifier>c7fcf26c-bd16-4b8e-9903-f871a03f424b</alternateIdentifier>
+        <alternateIdentifier>548275da-345d-380e-988e-a4625a7a8c06</alternateIdentifier>
+    <title>Brisbane City Council</title>
+    <creator>
+<organizationName>Brisbane City Council</organizationName><onlineUrl>https://www.brisbane.qld.gov.au/</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>Brisbane City Council</organizationName><onlineUrl>https://www.brisbane.qld.gov.au/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Atlas of Living Australia</organizationName>    <address>
+<deliveryPoint>CSIRO Ecosystems Services</deliveryPoint><city>Canberra</city><administrativeArea>ACT</administrativeArea><postalCode>2601</postalCode><country>AUSTRALIA</country>    </address>
+<electronicMailAddress>info@ala.org.au</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-09-26
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Brisbane City Council’s Natural Environment Water and Sustainability branch holds current and historic flora and fauna records for the Brisbane LGA and intend to update periodically every year.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://collections.ala.org.au/public/show/dr9662</url>
+          </online>
+      </distribution>
+      <contact>
+    <individualName>
+<givenName>Janine</givenName>          <surName>Gunton</surName>
+    </individualName>
+<positionName>Program Officer Biodiversity and Conservation Planning</positionName><electronicMailAddress>Janine.Gunton@brisbane.qld.gov.au</electronicMailAddress>      </contact>
+      <methods>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-06-15T16:12:42Z</dateStamp>
+      <citation>Atlas of Living Australia (2019). Brisbane City Council. Occurrence dataset https://doi.org/10.15468/ljfjwq accessed via GBIF.org on 2020-06-15.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
